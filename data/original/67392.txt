@@ -1,0 +1,1805 @@
+﻿The Project Gutenberg eBook of Phantom Duel, by Ford McCormack
+
+This eBook is for the use of anyone anywhere in the United States and
+most other parts of the world at no cost and with almost no restrictions
+whatsoever. You may copy it, give it away or re-use it under the terms
+of the Project Gutenberg License included with this eBook or online at
+www.gutenberg.org. If you are not located in the United States, you
+will have to check the laws of the country where you are located before
+using this eBook.
+
+Title: Phantom Duel
+
+Author: Ford McCormack
+
+Illustrator: STALLMAN
+
+Release Date: February 13, 2022 [eBook #67392]
+
+Language: English
+
+Produced by: Greg Weeks, Mary Meehan and the Online Distributed
+             Proofreading Team at http://www.pgdp.net
+
+*** START OF THE PROJECT GUTENBERG EBOOK PHANTOM DUEL ***
+
+
+
+
+
+                             PHANTOM DUEL
+
+                           By FORD McCORMACK
+
+                        Illustrated by STALLMAN
+
+                  _Farian jade was the most precious
+                jewel in history--and the most deadly!_
+
+           [Transcriber's Note: This etext was produced from
+               Infinity Science Fiction, November 1955.
+         Extensive research did not uncover any evidence that
+         the U.S. copyright on this publication was renewed.]
+
+
+Will Archer idly poked one of the array of keys which studded the
+wings of his control chair. The pattern of stars which sprayed into a
+twelve-foot black bowl from a knobbed projector above his head winked
+out and was promptly replaced by the rounding, yellow-green bulk of
+Vega VII, less than two diameters away.
+
+He was not sorry that its image was receding steadily. Faria, as
+it was called in the Vega system, was about the size of Earth and
+its atmosphere was tolerable to humans--there the resemblance all
+but ended. For its weather was insufferably hot, its topography
+fantastically tortuous, and its life-forms, both animal and
+vegetable--and yes, mineral!--were of a general aspect that only a
+biologist could gaze on with fondness.
+
+In order to do so, a whole group of kindred scientists had come all the
+way from far Earth six months before, and had chartered a ship at the
+interstellar base on Vega IX.
+
+They had also required an experienced and reliable "local" crew. The
+pay had been good, and Will Archer was looking forward to spending most
+of it quickly and freely on Vega IX.
+
+He released the key and the screen automatically reoriented itself to
+primary position--on course. The stars showing before him were actually
+almost directly above his head, allowing for "yaw" due to offset
+angular acceleration.
+
+Eighty hours to reversal. A hundred more of "descent" to Vega IX. Will
+Archer shrugged. Eight days between him and the fanciest fleshpots in
+the system. With a little more squirt--say about one-point-six G, which
+anybody but a cardiac case could easily stand--they could cut the trip
+in half, and sit down with juice to spare. But the freak-chasers loved
+comfort, and with all those specimens to drool over, they'd probably
+just as soon start for Sol III on chem-drive! Well, they or their
+sponsors were footing the bill, so--
+
+The concave screen suddenly flickered to fifth position, showing a 120°
+range of the firmament, rotated 90° clockwise, to the pilot's left. At
+the same time, a buzzer started droning, and a yellow light blinked on
+the gauge panel to his right.
+
+Toward one side of the screen, the great disc of Vega, selectively
+dimmed in projection, glowed like a blue-white moon. Near the center,
+a twelve-inch ring of light appeared and began to move slowly to the
+right. Whatever the ring indicated was too small and too distant
+to see, but to the unaided judgment its motion bore a disturbing
+resemblance to a collision course.
+
+Evidently the detector-system thought otherwise, or a red light would
+be flashing instead of a yellow one, an all-quarters alarm-bell would
+be sounding instead of a buzzer, and the controls would have operated
+automatically to deflect the ship by a safe margin--or to the limit of
+its occupants' capacity to absorb shock. Fortunately, such instances
+were vanishingly rare: space is incredibly roomy.
+
+Beneath the yellow blinker, a set of clicking meters recorded the
+flight components of the foreign object. Its direction cosines were
+changing slowly in a characteristically orbital manner; the object was
+probably a ship approaching the planet, although its velocity was a bit
+high for this proximity. But that was another pilot's worry.
+
+The ring was moving faster now, approaching the edge of the field.
+Just as it touched, it disappeared, and the screen flashed to first
+position. The ring reappeared at far left, shifted to the right with
+gathering speed. It swung past the center with a rush, slowed down
+again, and reached the far edge as the screen reoriented to third
+position. Very slowly now, the ring moved out from the left side of the
+field.
+
+The nearest distance of the respective courses had been about 45 miles;
+of the ships themselves, about 70. The ring drifted on toward the
+center of the screen and seemed to hover there.
+
+Will Archer looked back at the meters and shook his head. Too fast by
+far. And the negative acceleration was only a fraction of a G--_wait a
+minute!_ He stared at the meter in question. Its reading was positive!
+
+       *       *       *       *       *
+
+That meant the other ship, or whatever it might be, was approaching
+the planet in something resembling a free fall. A crash was not
+inevitable--there was plenty of time to apply sufficient lateral thrust
+to insure a miss--but _why_? Time and fuel would be wasted before a
+landing would become possible.
+
+The meters stopped clicking, the buzzer became silent, and the ring
+disappeared from the screen, which changed back to first position. The
+object had passed beyond accurate range.
+
+Will Archer frowned and pressed a key to his left. After a moment, the
+face of the radio operator appeared on a small video plate: "Yes?"
+
+"Any calls from outside in the last few minutes?"
+
+The radio operator looked surprised. "No. Why?"
+
+"Stay on audio." The pilot pressed another key, and the buzzer began
+droning again. This time, it would be heard in all parts of the ship.
+Captain's call. After perhaps ten seconds, the broad, placid face of
+Captain Rogan appeared on the screen: "Will? What's the trouble?"
+
+The captain rested his claim to respect on an amazing percentage of
+sound decisions, and held formality very lightly.
+
+"Cap, a ship just crossed our course in what looked like a free fall to
+the planet--too fast for a landing. No signals of any kind."
+
+Archer added nothing to the simple facts, since Captain Rogan was as
+well qualified to speculate about them as anyone. He knew that the Vega
+system harbors few, if any, meteorites of the indicated size. There
+is no asteroid belt; apparently there have never been more than the
+present twenty-three planets.
+
+The only answer which seemed consistent with the facts was an ugly one.
+The object was a ship out of control--its occupants either dead or
+helpless.
+
+       *       *       *       *       *
+
+Captain Rogan's furrowed brow indicated that he had reached the same
+conclusion.
+
+"Modify thrust to hold course and cut acceleration," he said quietly.
+"I'll send Berry up to make the layout." The video plate blanked out.
+
+Berry, the navigator, had turned in shortly after the fix and was
+probably asleep by now. Archer would need him--it was going to be
+tricky to plot a follow-course this close to the planet with enough
+leeway to match velocities. And they would have to pour it on a little,
+in all probability, to insure a safe margin--he wondered how the paying
+guests would like that. Not that it would matter to Captain Rogan--the
+Space Code came first.
+
+Will Archer pressed a key, and a high-pitched gong began to sound at
+one-second intervals. It would warn the ship's occupants of a change in
+acceleration, and would continue until the change was completed.
+
+Berry came in, walking quite steadily with the flat-footed gait of one
+wearing magnetic shoe-plates. He nodded sleepily, ran a hand through
+his tousled blond hair, and strapped his slight frame into the seat at
+the computing table.
+
+"I can tell you right now," he said glumly, "it's going to be rough. At
+3 G tops, it'll take five elements and seven hours, at the very least.
+We won't get within 50 percent of optimum."
+
+Archer read between the lines. Berry was a confirmed pessimist, and
+if he specified seven hours, it meant there was a fair chance of
+overtaking the other ship in less.
+
+On the trip "down," Will Archer did not mind the roller-coaster effects
+nearly so much as his gradual loss of orientation. It was not his first
+experience with incrementing a free descent, but it was by all odds his
+longest one. In succession, the planet was "up," "down," sideways and
+all over the place. Only the screen remained relatively unconfused.
+Certainly no planet-evolved organism could hope to match its gyroscopic
+single-mindedness.
+
+Some six hours later, the planet's projection occupied virtually the
+whole screen. The locator ring, now in shadow for contrast, picked
+out the other ship, which presently became visible as a black speck
+somewhat above the screen's center.
+
+It grew, and became recognizable as a small ship of not more than
+six-man capacity. There was now little question of its being out of
+control--it was dropping toward the planet at an odd angle, and its
+jets were dead. The question was whether there would be sufficient
+thrust available to divert it from the planet's atmosphere. Unless
+power were applied within the next hour, Archer surmised, no reasonable
+amount of acceleration would do the trick.
+
+Archer grinned. The same thing applied to this ship. How would the
+scientists react to the choice of jettisoning some of their heavy
+equipment and specimens or burdening their own frames with artificial
+avoirdupois to the point of black-out?
+
+The final jockeying to match velocities was a delicate and
+nerve-wracking task, since overshooting even once would have meant
+considerable loss of time. There was a tense moment as they slid
+abreast of the smaller ship and Archer applied the last few pounds of
+thrust. It was precisely enough, and the two ships floated relatively
+motionless, though somewhat askew. The smaller ship showed no external
+signs of damage, yet no light showed through any of the visible
+portholes.
+
+An extending rod, blackly silhouetted against the looming planet,
+stretched slowly across the field and touched the smaller ship's
+hull. Another moved out, farther away, and then a third, forming a
+magnetically clinging tripod which locked the two ships together.
+
+The buzzer sounded intermittently and a blue light flashed on Archer's
+left. He flipped a key, and Captain Rogan's face appeared on the video
+plate.
+
+"Will, get into your suit and come to the lock. Berry will take the
+controls. You're to go over with Stokely and see what can be done.
+And--better bring your gun, just in case."
+
+It was a notion that had already occurred to Archer, and he toyed
+with it further while donning his pressure-suit. People occasionally
+go berserk in space--its awesome immensity affects some minds that
+way--and a few had been fairly successful in liquidating their fellows
+wholesale. Among those ships which had simply disappeared forever into
+the void, there were probably a few such cases. Yes, it was entirely
+possible that there might be one living occupant of the other ship--a
+madman.
+
+       *       *       *       *       *
+
+Stokely, the burly, pink-haired chief engineer, was dressed for space,
+except for his head-globe, when Archer arrived at the lock. So were
+two others: Evans, a soft-spoken, sharp-faced member of the crew,
+and a tall and graying individual whom Will recognized as Dr. Hubert
+Grimwood, one of the more eminent of the scientists aboard. A sizable
+medical kit was slung from the doctor's middle.
+
+"I must admit, Captain," he was saying apologetically, "that while I do
+have a medical degree, I have never practised except--ah--incidentally."
+
+Captain Rogan shrugged. "There's no other medical doctor aboard, as I
+told you. All you can do is your best."
+
+The captain took up his position at the observation port next to the
+lock. "Are you ready, gentlemen?"
+
+With the others, Archer slipped on his radio headset, placed his
+head-globe in its rubber gasket and tightened the four clamps that held
+it. He cracked the compressed-air valve just enough to inflate the
+suit gently, and turned on the regulator unit. As he stepped into the
+airlock, the voice of Captain Rogan, slightly blurred in transmission,
+sounded in his ears:
+
+"Stokely and Archer, being armed, will enter first. Stokely will report
+progress, if able--otherwise Archer, Evans, Grimwood, in that order.
+Please acknowledge."
+
+The four men in the lock spoke their "Yes, sirs," in the order named,
+including Dr. Grimwood, whose response was nervously emphatic. He was
+plainly unaccustomed to activity during degravitation, but the set of
+his bony countenance showed his determination to go through with it.
+
+Will Archer felt his suit stiffening as the gauge dropped toward zero,
+and he moved his arms and legs a little to test the ball joints. They
+moved freely, being precisely pivoted so that the volume of the suit
+remained constant regardless of position. A moment later, Stokely
+pulled open the outer hatch.
+
+One of the contact rods projected from its sheath near the hatch to a
+point within reach of the other ship's lock. Stokely set out carefully,
+hand over hand, and Archer followed him, gripping the rod firmly with
+each hand in turn. This was no time to make a slip and go drifting off
+into nowhere. The pistol at his side would provide a means of getting
+back, but an awkward one, because one's center of gravity was difficult
+to judge accurately, and if the shot were not closely aligned to it,
+one stood an excellent chance of converting himself into a human
+pinwheel.
+
+Archer waited near the hull of the other ship until Stokely drew
+himself out of the way, then, grasping a nearby rung, he made room
+for Evans and Grimwood. Stokely, though a few feet away, was in dense
+shadow and almost invisible, but his flashlight made a shifting oval of
+light on what appeared to be a pane of vitreon, and he spoke steadily:
+
+"I'm looking through the porthole, but I can't see much. There are no
+lights aboard ship. Nothing seems to be out of place in the waist
+here, but of course I can't see the nose and tail compartments."
+
+"How about the lock?" came Captain Rogan's voice. "Try the emergency
+control."
+
+Archer could feel a slight vibration through the hull as Stokely
+changed his position, then spoke again:
+
+"Seems to be in working order. The lock is evacuating. But it's going
+to be a squeeze for the four of us."
+
+"Better go in two at a time. You and Archer first. And keep your suits
+operating, even if the air reads all right--there just might be some
+fancy bacteria floating around."
+
+That was another grim possibility not unknown in space annals. Bacteria
+could mutate rapidly and strangely under extra-planetary conditions.
+On two or three occasions, "fancy" ones had nearly wiped out orbital
+laboratories devoted to bacteriological research.
+
+If such were the case here, it was all the more important to see what
+could be done to avoid tainting the atmosphere of an inhabited planet.
+
+       *       *       *       *       *
+
+In the air lock, the pressure balanced quickly with that of the
+interior, and the tension eased on the fabric of their suits. Stokely
+pushed the inner hatch open and they entered with guns drawn. The beams
+of their flashlights swept the chamber quickly, then more slowly.
+
+There were only the bunks, storage lockers, air-processing equipment,
+and gyro-stabilizer unit to be expected amidships of such a craft.
+Stokely placed a hand on the stabilizer housing for a moment, then
+nodded. They had already judged from the ship's behavior that it must
+be functioning.
+
+"Nothing out of the way here," reported Stokely in a low voice.
+
+"Stay together, and look at the control room first," Captain Rogan
+ordered.
+
+There was, of course, no central lift in a ship this size, but merely
+narrow ladders between the compartments. These were necessary only
+under the pull of gravity or acceleration, and under the present
+circumstances, to be avoided. Stokely led the way "up" the inner hull
+and across the "overhead," placing his magnetized boots as softly as
+possible.
+
+The inter compartment hatch, about three feet in diameter, was wide
+open. Stokely pointed at Archer's flashlight and made a fanlike motion
+with his hands. Archer nodded, reached out and aimed the light through
+the hole, full flood, while Stokely peered through the other side, gun
+in hand. The stratagem was simple--anyone firing at the light might hit
+Archer's arm, but probably not Stokely's less expendable head.
+
+Nothing happened. After a tense moment, Archer moved the light about
+slowly, then Stokely turned his own over the edge.
+
+"There are two men in there," he said slowly. "Both dead, I think."
+
+       *       *       *       *       *
+
+There was no doubt at all about one of them, whose corpse floated not
+six feet away, tied by one wrist to a conduit. Part of the face seemed
+to have been gouged out, and closer inspection showed the explanation:
+a sizable bullet-hole in the opposite temple.
+
+Whether or not the other was dead, he was certainly not conscious,
+despite his normal sitting posture in the control chair. That was to
+be expected anyhow, in a free fall with the safety belt fastened. His
+squat frame was stripped to the waist, his small black eyes stared
+blindly, and his unshaven jaw was clenched in an ugly grin. His right
+hand loosely held a hypodermic syringe, and a pistol was stuck in his
+belt.
+
+Stokely gave a brief description, and added: "He looks dead, all right.
+Maybe he tried to give himself an anti-tetanus injection, but was too
+late."
+
+"Dr. Grimwood will please go in immediately," said Captain Rogan. "In
+the meantime, Stokely and Archer will look at the tail compartment."
+
+The tail, or engine, compartment contained nothing of abnormal
+interest, as it turned out. The ship appeared to be in running order,
+with adequate fuel. Its power had evidently been cut deliberately, for
+whatever mysterious reason.
+
+"Stokely will remain there," said Captain Rogan. "Archer will take the
+controls. We are withdrawing the contact rods, and will retard our
+fall, giving you enough clearance to align ship and test the power. If
+everything functions normally, the four of you will proceed to company
+base on Faria. Dr. Grimwood will exercise his judgment as to whether to
+remove your pressure-suits. Archer, as pilot, will take command."
+
+Dr. Grimwood and Evans had removed the dead man from the control seat
+when Archer returned. The controls were fewer and less specialized, and
+in place of the all-seeing projection screen was a televiewer plate
+with fixed scanners, whose field was limited to the tailward sector
+of the heavens. Other observation was necessarily direct, through the
+several ports.
+
+The televiewer became activated at the flip of the switch and revealed
+that Captain Rogan had withdrawn his ship to a safe distance.
+
+Will Archer depressed a key which had the effect of applying a
+magnetic brake in the stabilizer unit to one of a pair of oppositely
+rotating flywheels, or "gyrotors," whose axis was athwartship. As the
+considerable speed of the gyrotor diminished, the ship began to turn
+with it in a slow somersault. Archer eased up on the key, and after
+some hundred and twenty degrees, released it. The gyrotor came up to
+speed again, stopping the spin nicely.
+
+Archer paused with his hand on the power control. "Hang on, boys," he
+said. "There's going to be a floor."
+
+The others got as close to it as they could, and Archer "raised" the
+thrust-control lever a few notches. Immediately, there was the welcome
+feeling of weight. This, as a dubious tribute to the adaptability of
+human flesh, became oppressive before the accelerometer showed one G.
+
+"We're going to have to pour it on," said Archer. "Three G's for a safe
+margin. Since there's only one other chair here, maybe Evans had better
+go down with Stokely. There are two chairs there. And by the way, I
+think our two silent partners would be better off in the main storage
+compartment."
+
+"Particularly," agreed Dr. Grimwood, "as they appear to have been dead
+two or three days. That would be one reason for keeping our suits on
+for a while." Gingerly, he picked up the hypodermic syringe from beside
+the sprawling corpse.
+
+"It would be interesting to know what was in this. Maybe--" The doctor
+stooped again quickly. "But what's this?"
+
+Will Archer looked down in time to see him force open the dead man's
+clenched left fist. As the fingers came back, a greenish, glowing
+object the size and shape of a brazil nut lay exposed. Or was it
+green? All the colors of the spectrum seemed to appear in flickering
+succession as Dr. Grimwood picked it up almost reverently, yet the
+predominant effect was of cold green fire.
+
+After a moment, the doctor spoke softly: "So that's it! Farian jade!"
+
+"Farian jade!" Archer echoed. "I've heard of it. Plenty valuable, isn't
+it?"
+
+Dr. Grimwood nodded. "Fabulously. There are only a few hundred pieces
+known to exist, and their combined value could purchase a fair-sized,
+habitable planet!"
+
+Evans' normally wide, dark eyes were bulging myopically. "Do you think
+these guys stole it?"
+
+"Hard to say," said the doctor. "But, putting two and two together, it
+looks more like they made a find somewhere back on the planet. If so,
+there should be more of the stuff around, or some information--" He
+felt about in the dead man's clothing, and presently pulled some papers
+from an inner pocket.
+
+"Here we are!" he said, unfolding them. "The Farian coordinates, a
+rough topographical map of the region, and written directions. They
+must have struck it rich--a find of only a dozen pieces could be worth
+twenty million dollars. They possibly decided to take out only a few
+pieces at a time and pass them off as stolen goods elsewhere in the
+system, legal protection being of dubious effectiveness where Farian
+jade is involved. But it was evidently too big a strike for their
+psyches to withstand."
+
+Stokely stepped from the open hatch, his eyes fixed on the jewel in
+Dr. Grimwood's hand. He reached for it, held it up and studied it at
+several angles, then passed it back, his face inscrutable throughout
+the actions.
+
+"It's about the only gem that can't be synthesized, isn't it?" he asked
+the doctor.
+
+"Yes--that's the main reason for its enormous value. And it's my guess
+that it couldn't be synthesized for a long time even if we knew a lot
+more about it than we do. The reason we don't know much is absurdly
+simple: the stuff is just too damned expensive for a mere scientist
+to be permitted more than superficial analysis. But we do know this:
+synthesizing it would be tantamount to creating life."
+
+"Don't look now," Will Archer interrupted calmly, "but there's a
+sizable planet breathing down our necks. So if you gentlemen would
+retire to your respective stations, I can guarantee to add considerable
+weight to the discussion."
+
+       *       *       *       *       *
+
+"Not that the stuff is really alive, in any accepted sense," Dr.
+Grimwood went on a few minutes later, his breathing somewhat labored,
+but his enthusiasm not altogether squelched by three hundred and fifty
+added pounds. "But it certainly isn't jade at all, or anything similar.
+That misnomer has stuck because of its greenish glow--although if you
+examine it under a very strong light, it appears dead black. Actually,
+it's a microbiotic crystalline formation, the result of some age-long
+process believed to be conducted by a virus-like life-form. The 'jade'
+itself seems to be a borderline structure, having no obvious properties
+of life--yet there is the contradictory cold light, or bioluminescence,
+which would indicate some degree of electrochemical change. I'm not a
+bio-chemist myself, but I'll tell you there are one or two fellows on
+the other ship who would cut all our throats, in a charmingly objective
+manner, in order to lay their hands on this bauble. Some think that
+Farian jade may very possibly hold the secret of life itself."
+
+With an effort, the doctor lifted his hand high enough so that, without
+altering his reclining position, he could peer over his own chin at
+the jewel. Archer found his eyes held by it almost hypnotically, as it
+pulsated through the gamut of hues, now blending, now contrasting with
+the dominant green.
+
+"From what I've heard," said Archer, "the virus, or whatever makes it,
+is pretty deadly to humans. Is it true that you can't even tell you're
+infected until the final convulsions?"
+
+"In effect, yes," replied Dr. Grimwood. "Although if you're exposed
+to it, which means stumbling across one of the rare and unpredictable
+localities where the jade is found, the chances are about four out of
+five that you will be infected. The fifth person, for some inexcusably
+unknown reason, seems to be immune. But there is one symptom that
+occurs with some punctuality three and a half hours after exposure, and
+about 15 minutes before the convulsions: it's a bodily glow, or aura,
+due to some bioluminescent substance saturating the tissues.
+
+"However, it is so faint that it can be seen only in the dark, and then
+not by the victim himself, since it shows up only in contrast to a dark
+background. I think that is the explanation of the fact that we found
+all the lights out when we boarded this ship."
+
+"You mean," said Archer, with some alarm, "that fellow might have died
+of the virus infection--in this chair?"
+
+Dr. Grimwood smiled slightly. "Don't worry. In the first place,
+he didn't have it--he only thought he did. And if he had, you
+couldn't catch it, even minus your pressure-suit. The malady is not
+transmissible among humans. I almost wish it were, since we would have
+been obliged to learn a great deal more about it than we have."
+
+"You say he thought he had it--was the stuff in the hypodermic some
+kind of antidote, then?"
+
+"Undoubtedly," said the doctor. "And since there is only one antidote
+known, it explains what happened to the rest of the jade they brought
+along."
+
+"That's right!" exclaimed Archer. "I remember having heard that now.
+The jade itself is the only antidote. But then--why did he die?"
+
+"Because," said Dr. Grimwood, "the antitoxin, where the infection has
+not occurred, is a deadly and swift poison."
+
+       *       *       *       *       *
+
+The doctor paused, then spoke bitterly: "There is some reason for
+believing that the jade, or end-product, might be rendered non-toxic
+in itself--if it were obtainable for experimentation. But it's not.
+They'll inject the stuff in their own skins to save same--one wealthy
+woman even mixed herself a million-dollar martini in order to commit
+suicide--but when it comes to turning over the smallest fragment to a
+laboratory, even billionaire philanthropists are restrained by their
+wives. And the specimens are never cut or ground since it wouldn't
+enhance their luminescence, so there aren't even any scraps for the
+hungry researcher.
+
+"Anyhow, my guess is that these prospectors started off with their
+samples not too long after exposure. They could have been well out
+of the atmosphere before the three-and-a-half hour deadline. As it
+approached, they evidently killed the lights in order to watch each
+other for the symptomatic aura. Even though the probability was pretty
+high of at least one of them being infected, they most likely wouldn't
+have prepared any of the precious solution in advance. Fortunately, it
+doesn't take long---you merely dissolve a minimum of ten carats in a
+little alcohol, and it's ready to inject.
+
+"The fellow who was later killed must have developed the aura and been
+told about it in good faith, because I saw the needle-mark on his
+arm. Then came trouble. The other fellow happened to be one of the 20
+percent minority who are immune. He failed to show the symptom, but
+suspected his colleague of lying about it. He probably kept him covered
+with his gun while he cut the power so that even the control lights
+would be out. Then he tried to tell by the reflection of his naked
+torso in the observation ports whether he had the fatal glow. It must
+have been a tense and ironic situation.
+
+"Whether he was deceived by a diffusion of sunlight in the heavy
+vitreon or by his own taut nervous system, he evidently fancied he saw
+the aura, and shot his comrade in a fit of rage. Then he turned the
+equally fatal hypodermic on himself."
+
+       *       *       *       *       *
+
+Although the four men were still in radio contact, having decided to
+keep their pressure-suits on until the air "cleared," nobody spoke for
+a while. Archer lolled his leaden cranium sideways on its rest, to see
+the rim of the planet looming hugely in the side ports. The ship would
+be reaching the near-point in another hour.
+
+"They must have been pushing off at well over two G," he said, "for
+their momentum to have carried them out as far as it did. They made a
+big loop."
+
+Dr. Grimwood smiled wryly. "I imagine they were impatient. How would
+you feel with a negotiable fortune as a cargo?"
+
+"You might say," returned Archer, "how _do_ I feel? That leftover
+you're holding must be 30 or 40 carats. I'll be glad enough to turn it
+over to the company and let them find out about salvage rights, if any.
+Frankly, I'm just a little afraid of the stuff. Its value seems to be
+of slightly lethal proportions."
+
+"True," sighed the doctor, "but there's a great temptation to stop off
+at that find and sneak a hunk of it for some friends of mine. They'd
+get a bigger kick out of pulverizing it with a mallet than they would
+buying castles on Arcturus IV."
+
+Under the onus of triple weight, the hour that followed seemed much
+longer. At last the ship cleared the dangerous fringe of atmosphere by
+a good thousand miles, and Archer aimed her nose at the retreating rim
+of the planet, reducing deceleration to a very tolerable 1.5 G.
+
+"We'll swing pretty wide," he said to the others. "It'll be nine or ten
+hours before we get back in at a safe speed. If you fellows don't mind,
+I'm going to shuck this suit and catch a nap right here in this chair.
+I'm all in. I'd advise you, Stokely, to do the same. We may need to be
+on our toes later--this job won't practically land itself like the one
+we're used to!"
+
+       *       *       *       *       *
+
+A few hours later, Will Archer was pacing a broad marble courtyard
+inlaid with Farian jade, in a kingly castle on Arcturus IV, when a
+rough hand on his shoulder shook him awake. It was Stokely, with his
+gun in his hand and an ugly smile on his rather handsome, freckled
+face. He motioned derisively toward Dr. Grimwood, who was bound
+securely to his chair.
+
+"I can't figure the doctor out," said Stokely. "I thought he made a
+wonderful suggestion about stopping off and picking up some more jade,
+but now that I've invited him, he doesn't want to go."
+
+Archer had discarded his own gun with his pressure-suit and was
+chagrined to see it now in its holster at Stokely's waist. He groaned
+inwardly, cursing his sleeping intuition for not having warned him.
+In looking back, he realized now that there had been more to Stokely's
+reactions than mere awe at the sight of a fabulous gem. And there was
+something else--Stokely, though a first-rate engineer, had been washed
+out as a Space Guard cadet on psychological grounds. He was quite sane,
+but too individualistic--his social and cooperative indices had been
+low. Captain Rogan had known of his record, of course--but he had not
+known what would be found on this ship, and what effect it would have
+on Stokely.
+
+But what about Evans? Archer turned in his chair and saw the slightly
+built man standing a little nervously in back of him, holding what must
+be the dead prospector's gun.
+
+Archer bit his lip. Not much was known of Evans, since he had been with
+them only two trips, and his responsibilities as an ordinary crewman
+had not been great. Archer judged him as a none-too-bright individual
+who would never undertake such a bold venture on his own initiative,
+but who might go to considerable lengths under strong leadership.
+Well, he had that in Stokely, whose pale blue eyes had a reckless and
+determined look about them.
+
+"Are you with us?" demanded Stokely. "I could probably pull this off
+without you, but it'll be easier with you. Because you're a damned good
+pilot even if you are the Captain's fair-haired boy. What do you say?
+Not that we'll trust you very far, either way. Evans and I keep the
+guns. You'll have to string along part way, anyhow--if you want to come
+all the way, there's a fortune in it for you."
+
+Archer unsnapped his safety belt and got to his feet, flexing his lean
+limbs, which were cramped from the many hours of confinement. As he
+faced Stokely, their eyes were on a level, although the pink-haired man
+would have run a good 30 pounds heavier--or, at the moment, 45.
+
+"What guarantee," asked Archer in a dull voice, "would I have of that?"
+
+"My say so, mostly," Stokely admitted evenly. "But I can use a pilot,
+not only now but later. After we grab the stuff, the first thing we'll
+need is another ship--and Faria won't be the place to look for it. When
+we get it, we'll get rid of this one. That's where you come in."
+
+"How do you plan to do it?"
+
+"Very simple. Charge it up to the hilt, set her course straight out
+of the system and let her go at about two G. It won't come back for a
+thousand years, at least. The company will figure something happened to
+it on this trip after we managed to miss the planet, and we couldn't
+get back. I thought of cracking it up on Faria, but somebody might
+spot it hitting the air, and the time would be way off. This way is
+better--we just got lost in space. With nobody looking for us on IX,
+it'll be a cinch to get out of the system from the interstellar base.
+
+"After that--we can go buy that nice planet the doctor was talking
+about."
+
+       *       *       *       *       *
+
+Archer scarcely heard the latter part of Stokely's speech, except to
+visualize briefly the ironic situation in which a pilot named Archer
+would change ships in mid-space--or start to. The important question
+was whether there was anything to be gained by pretending to throw in
+with the conspirators. Stokely, like most people who find it difficult
+to appreciate a different viewpoint, should be easy enough to deceive.
+It might mean a gain of considerable time--for Archer.
+
+But what about Dr. Grimwood? There seemed to be no place for him in
+Stokely's scheme, after locating the jade, except perhaps the storage
+compartment with the two prospectors. Once Stokely had disposed of the
+doctor, he would undoubtedly require less of an excuse to do the same
+with Archer--and eventually Evans, in all probability.
+
+There was a chance, however, that if Stokely found himself stoutly
+opposed by both Dr. Grimwood and Archer, he might hesitate to kill them
+both out of hand, at least until he could be certain of finding the
+jade deposit. Double murder is a long step for a man with no previous
+criminal record.
+
+Archer made his decision.
+
+"You can count me out," he said flatly, watching Stokely's face for a
+reaction. "That badlands where the find is supposed to be is a tough
+place to land a ship, so I'll put her down on behalf of all of us--but
+also on the condition that you'll release Dr. Grimwood and myself
+immediately. It'll take us weeks to reach civilization, _if_ we're
+lucky. That ought to give you all the time you need. But I want your
+guarantee--otherwise, I'll have nothing to lose by trying to cross you
+up, if it kills us all."
+
+The bluff evidently carried a certain amount of purely psychological
+weight, for Stokely seemed a little taken aback, and his blustering
+smile lacked full confidence.
+
+"Honest Will Archer!" he said scornfully. "The pride of the company!
+You're in a hell of a position to bargain!" He went on in a more
+serious tone: "But it sounds good enough. You get us down, the doctor
+helps us find the jade--he's the only one who knows much about the
+stuff--and then the two of you can start out. Who knows--you might even
+make it!" He grinned.
+
+It sounded as if--at the moment--Stokely regarded the proposition as
+an easy way out for himself. For Archer and the doctor, it would not
+be so easy. There would be at least two hundred miles of fearfully
+rugged terrain, infested by predatory and poisonous animals, insects
+and plants. It would be both hot and dangerous to travel by day--and
+downright foolhardy by night. And even this dim prospect depended on
+the slight scruples of a thoroughly egocentric individual.
+
+It was not enough. Archer resolved to keep his faculties on the alert
+for any loophole that might occur.
+
+       *       *       *       *       *
+
+But Stokely's vigilance had not slackened when, hours later, they
+approached the atmosphere at a speed slightly greater than that of the
+planet's rotation, and within an estimated five hundred miles of the
+coordinates shown on the dead men's chart. Stokely left Evans in Dr.
+Grimwood's chair, with the strict injunction not to remove his eyes
+from Archer, and took the doctor with him to the engine compartment.
+
+Thereafter, Archer was obliged to give his entire attention to
+the business of angling the ship sharply into the atmosphere and
+opposing its thrust to the resultant of deceleration, gravity and
+air resistance, a function which was only semi-automatic, and needed
+constant correction.
+
+The first landmark shown on the map, a jagged and mighty canyon,
+presently appeared between scattered clouds below. Archer set the
+ship's angle nearer to the horizontal, allowing gravity to pull it into
+a steeper descent.
+
+The next landmark, a crescent-shaped range of sawtooth mountains near
+the far end of the canyon, showed up plainly, since shadows were
+lengthening across the face of the planet. A dozen valleys meandered
+off from the hills in a southerly direction and Archer aimed for the
+fourth from the south.
+
+At last, one third of its length from the south end of the valley, the
+ship stood over the spot corresponding to the X-mark on the map and
+settled slowly on its jets. According to the scrawled notation, the
+jade deposit would be not more than half a mile away, near the valley's
+east wall.
+
+Archer delayed the impatient Stokely long enough to provide Dr.
+Grimwood and himself with packs of food and water from the ship's
+stores, trading on the doctor's promise to help locate the jade. Once
+it was found, Archer did not intend to remain at Stokely's mercy long
+enough to return to the ship.
+
+All four of the men donned their pressure-suits, primarily as a barrier
+against the deadly "jade" virus, but incidentally as a protection from
+all manner of unpleasant insects and tentacular, stinging plants. Also,
+there was an abundance of scurrying, cold-blooded little horrors,
+reminiscent of Terran reptiles or batrachians, but by those standards
+grotesquely misshapen.
+
+Vega VII was a planet whose surface had been prematurely desiccated by
+a broiling sun, although there was still considerable water available
+in underground lakes, but the excess of hard radiation had spurred
+evolutionary processes to improbable extremes.
+
+Just now, the outsized, glaring white orb was low in the sky and the
+temperature was becoming tolerable. Before morning, in this dry air, it
+would probably drop far below freezing.
+
+       *       *       *       *       *
+
+Stokely made Archer and the doctor walk ahead, at a difficult pace over
+the rough ground. They went willingly, however, since failure to find
+the jade in the next hour or so would mean spending the whole night in
+untrustworthy company.
+
+The final fixing of the location was accomplished by aligning the tip
+of a rocky promontory resembling a human nose with a farther peak and
+walking directly away from it until a small ravine was encountered.
+The deposit was 75 yards farther on, according to the instructions,
+in a direction a little south of east. All four men paced it off with
+extended strides, ending up in a scattered configuration, with no two
+of them more than ten yards apart.
+
+       *       *       *       *       *
+
+The men faced each other and looked about. It was a rock-strewn area
+similar to a dozen others they had passed through on the way here. But
+closer inspection revealed one difference. Here and there were piles of
+dry, gray bones of different sizes, some of them crumbled almost into
+dust.
+
+"Looks something like an animal graveyard," said Dr. Grimwood. "But I
+rather imagine it's less purposeful than that, and most of them simply
+made the mistake of sleeping here."
+
+"Well," said Stokely, his voice harsh and a trifle high-pitched,
+"where's the jade?"
+
+He deliberately pointed his gun at the doctor, who regarded him
+dubiously.
+
+"I'm sure it's here," said Dr. Grimwood, "but I really don't know much
+about its appearance in the natural state. They carefully avoided any
+mention of that on their map, you know. That map was intended for them
+alone." The doctor began to walk slowly among the rocks, studying them.
+"I seem to recall, though, hearing something about--"
+
+He paused, bent down slowly with the weight of his pack, and dug with
+his space-gauntleted fingers at a hollow in one of the larger rocks.
+
+"--moss!" he finished. "Gray moss. I think this is it."
+
+The tufted moss was hardly distinguishable from the stone itself in the
+waning light. Dr. Grimwood plucked from its core a thimble-sized lump.
+Holding it up, he scraped away part of the gray coating. It was as if,
+with some magic flint, he had struck green fire. The eerie glow of the
+gem made the surrounding area seem suddenly darker by contrast.
+
+Will Archer only glanced at it, returning his gaze quickly to Stokely,
+on his left. In the big man's reaction to this climactic discovery
+might lie some clue to his probable course of action.
+
+And the expression on Stokely's face was not good to see. The pale eyes
+which had widened at the first sight of the gem now narrowed to slits,
+while his normally regular features pulled into an ugly mask. A dark
+flush suffused his freckled cheeks.
+
+Archer watched him with growing alarm. There was little doubt that, for
+the moment, Stokely was not sane.
+
+His gun, still pointed at Dr. Grimwood, moved slightly, and Archer saw
+his finger tightening on the trigger. In one motion, Archer slipped
+free of his pack and flung himself at the heavier man.
+
+The gun went off just as he struck, and Stokely, caught off guard, was
+bowled over like a tenpin. His head-globe hit hard against the rocky
+ground, protecting his head but smashing a large hole in the globe.
+
+He went over so easily that Archer himself was thrown off balance. He
+stumbled over Stokely's legs and fell a few feet beyond. Rolling over
+quickly, he scrambled to a crouching position, then paused, and drew
+himself slowly erect.
+
+Evans was standing just beyond Stokely, and the gun in his hand was
+aimed steadily at Archer's stomach. Dr. Grimwood was lying prone and
+limp, his blood trickling out between the stones under him, the bit of
+jade glinting near his outstretched hand.
+
+Stokely picked up his gun and got to his feet dazedly, shaking his
+head to clear it. Archer studied his face and saw there a vast, rising
+anger, but no longer the wild light of utter unreason. The man was in a
+dangerous mood and might readily kill again, but he had evidently been
+jolted back to a semblance of sanity.
+
+Suddenly, Stokely's eyes widened and fear became dominant in his
+expression. He obviously had just realized the implication of the fact
+that his head-globe was broken. He licked his lips, and looked back and
+forth from Archer to Evans.
+
+His mouth tightened with sudden purpose.
+
+"Evans! Look out!" Archer shouted, but too late.
+
+Stokely had lashed out with his gun and caught Evans sharply on the
+right wrist. As Evans' gun dropped from paralyzed fingers, Stokely
+easily shoved him away and scooped it up from the ground. He stepped
+back a few paces, keeping a watchful eye on Archer.
+
+"Okay," he ordered Evans grimly, "take it off!"
+
+       *       *       *       *       *
+
+Only then, evidently, did Evans' slow wits grasp the meaning of what
+had happened. His dark eyes stared with fright, but he loosened the
+clamps with trembling fingers, and set his head-globe carefully on the
+ground. Stokely, now in possession of all three guns, holstered the one
+in his left hand, removed his cracked head-globe with some difficulty,
+and even more awkwardly replaced it with Evans'.
+
+Head-globes were interchangeable, though the individually proportioned
+suits were not. The reason that Stokely had called upon Evans, not
+Archer, to remove his globe was disturbingly obvious. Stokely wanted
+Evans in the same status as himself, for the time being--which should
+have been reassuring to Evans. To Archer it was quite the contrary, and
+he was not surprised when Stokely scowled at him a moment later and
+spoke in a voice that was too quiet:
+
+"As for you, you're too smart for your own good. I don't think we need
+you around any longer." The gun in his right hand swung slowly.
+
+"On the contrary," said Archer quickly, "since that borrowed helmet
+might not make any difference now, you need me worse than ever. That
+is, unless you trust each other implicitly." He spoke the last few
+words with slow emphasis.
+
+For a long moment, the gun held steady, then it lowered a little.
+Stokely gestured with the other hand.
+
+"Take it off," he said harshly, "and I'll hear what you have to say.
+I'm not promising anything, though. For instance--why should I trust
+_you_?"
+
+Archer removed his head-globe, admitting the outer air. It was cold
+against his face, and so dry by comparison with the humidified air of
+his pressure-suit that it caught in his throat as he breathed. He left
+his headset on for communication with Stokely.
+
+"Maybe you won't have to," Archer answered steadily. "I have a plan
+that might work in spite of our low regard for each other's veracity.
+But--in case it doesn't--you'll be better off if you take off that
+globe."
+
+Stokely sneered. "You'll have a hard time selling me that idea!"
+
+"I don't think so, when you see the point. You're forgetting that in
+this case, a false cure is just as deadly as the disease. I don't
+know just how full of the virus the air is hereabouts, but as far as
+either of us can tell, you may be cutting down your chances of getting
+infected. Evans' chance, and mine, with full exposure, will be four out
+of five. That means if we can't find out for sure whether we have it,
+we can take an injection and be 80 percent sure of being right.
+
+"How sure can you be?"
+
+Stokely's face set in a grim mask as the realization sank in. He
+removed his globe and set it out before him on the ground. Again the
+gun raised to Archer's chest.
+
+"Okay, bright lad, you put it on!"
+
+Archer smiled thinly and shook his head. "Could you be sure that I
+don't know more about the infection than I've admitted? In which case,
+it might be a trick to get the globe for myself."
+
+Stokely's face was twisting dangerously again, and Archer went on
+quickly:
+
+"Better leave us all in the same boat, anyhow--it'll work out better
+later on."
+
+It was a full, tense minute before Stokely's fury subsided to a point
+where he could speak.
+
+"I think I'm making a mistake in letting you live," he said thickly.
+"This plan of yours had better be good. How does it work--with mirrors?
+Let's have it!"
+
+"Lacking mirrors of a size which would show a good contrast--say about
+ten feet square," Archer returned calmly, "we'll have to use other
+means. My plan will give each of us an equal chance, at least. I'll
+tell you the first part now: we take all the jade we can find around
+here, before dark if possible, and go back to the ship. I'll tell you
+the next step when we get there. If that isn't good enough--or if an 80
+percent chance _is_--you can shoot and be damned!"
+
+       *       *       *       *       *
+
+It was nearly three hours later, very dark and very cold, when they
+returned to the ship. Archer and Evans carried Dr. Grimwood's body,
+consigned to the same storage compartment as the dead prospector's.
+Stokely evidently had not altogether abandoned his original plan for
+disposing of the evidence. The question now, Archer thought grimly, was
+how many bodies there would be.
+
+Stokely himself carried the jade, of course. Under his prodding, they
+had literally left no stone unturned in the vicinity of the deposit. It
+had yielded nine pieces of varying size and a total weight of perhaps a
+hundred and fifty carats. They added up to riches beyond imagining.
+
+One of the lockers, as would be expected aboard a prospector's ship,
+contained an assortment of standard chemicals, and Archer lost no time
+in locating a bottle of ethyl alcohol. There was also a balance and a
+set of weights.
+
+"The next step is simple," he said, anticipating Stokely's question.
+"I make up a solution of antitoxin. There are hypodermics in the
+medical kit, which is in the control room. The doctor put the one we
+found up there in it, and I'm pretty sure I noticed a couple of others.
+Perhaps you will trust Evans to go get it, and in the meantime, I'll
+trouble you for about 30 carats of jade."
+
+"Thirty carats! That's enough for all three of us! We may not all be
+infected."
+
+"No--as a matter of fact the odds work out to be only a little better
+than 50-50 that we all have it. But we've all got to have the means of
+doing something about it if we find out--otherwise the plan won't work.
+
+"_If_ we find out!" Stokely echoed harshly. "Archer, you've stalled
+around long enough! What is this plan?"
+
+Archer looked at him in open disgust. "_You've_ stalled around long
+enough! There's only 20 more minutes until the three-and-a-half hour
+deadline. Let me get the stuff made and then we'll talk about it.
+Incidentally, 30 carats is less than the share you offered me--and also
+a lot less than I value my life. So you can figure the shots are on
+me."
+
+With a reluctant grimace, Stokely removed the utility kit from his belt
+and poured out a small but dazzling cascade. Archer weighed several
+combinations of the smaller gems, and found one group of three which
+came to a little under six and a half grams or about 32 carats.
+
+Unceremoniously, he dumped them into a small beaker, and poured in a
+little alcohol. After a minute or so, they softened and dissolved.
+Archer added distilled water and stirred the solution gently.
+
+Evans returned from the control room and handed the medical kit to
+Archer, who took out the three hypodermics. Forcing himself to take
+great pains, he divided the solution among the three.
+
+"No time to sterilize these," he said. "Not that they should need
+it. Here is the one used by the dead man--I don't mind taking it, if
+anybody else does. This next one has a little more in it than the
+others. Stokely, you're the biggest, so--but suit yourself. Now let's
+get these suits off and get outside."
+
+"Why can't we wear the suits?" asked Evans. "It's freezing out there!"
+
+"Because they're opaque," said Archer patiently, "and the aura is so
+faint that your cranium alone probably wouldn't give off enough to be
+visible. Personally, I'm going to strip to the waist. I'd be inclined
+to strip further, if it weren't for the fact that some of those
+crawling things out there are about as deadly as the virus."
+
+       *       *       *       *       *
+
+In silence, the three men climbed down from the airlock, their
+flashlights cutting holes in the thick darkness. Faria was a moonless
+planet, and the hour was late.
+
+Under the watchful eye of Stokely, Archer walked clear of the
+retractable landing supports and shone his flashlight about the small
+level area in which the ship was fairly centered. He held the beam
+steady on an outcropping of rock about 40 feet away.
+
+"There's a good background for you, Stokely. It faces the lock, and I
+imagine you'll want to do the same."
+
+He swung the flashlight slowly around. There were several piles of
+boulders standing about, and Archer indicated two of them, each about
+120 degrees from the first.
+
+"Evans and I can take those two positions. That way we'll form a
+triangle, each of us about 40 feet from the ship, and in plain sight
+of the others--that is, _if_ we develop that fatal glow. In any case,
+Stokely, I think you can depend on us staying put until we find out,
+since--"
+
+"And then what happens?" Stokely demanded impatiently. "How do we find
+out--without trusting each other? The whole set-up sounds silly to me!"
+
+"It's my life, too," Archer reminded him. "And in case you're in any
+doubt, I don't trust you, either. Here's the plan: As you know, all of
+us were exposed within a very few minutes of each other. That means,
+according to our late friend, the doctor, that in ten to 12 minutes
+from now--perhaps a few minutes longer--one or more of us should show
+the symptomatic aura.
+
+"Now there's the point: _one or more_ of us. There's an excellent
+chance we won't all show it. Allowing an adequate margin, the next 20
+minutes should reveal who has the infection and who hasn't. I propose
+that at the end of that time each of us in turn announces, not which
+of the others shows it but simply whether he sees the aura at all. He
+doesn't tell whether one or both of the others shows it, but merely
+whether _at least one_ does."
+
+"What good would that do anybody?" asked Stokely glumly.
+
+"None, in itself. But you forget that all of us will be reporting. For
+instance, supposing Evans says he sees it, but I don't show it, or vice
+versa--two very distinct possibilities. Then you'd know that the only
+place Evans could have seen it--"
+
+"What if he were lying?" Stokely put in sharply.
+
+"That's the general idea in back of the whole scheme. He couldn't get
+away with it. If he said he saw it and didn't, it could only mean that
+neither you nor I showed it. In that case--which is one of the lesser
+possibilities, incidentally--I'd be led into the same error that you
+would. But it would then be very much to our mutual benefit to compare
+notes before taking any injection.
+
+"If he said he didn't see it, and either of us had it, the other would
+know he was lying. If we can't trust each other to tell the truth, we
+can't very well depend on each other to back up our lies--especially
+when there is everything to lose by it. If you knew Evans was lying
+about me, how would you know whether he was telling the truth about
+you?"
+
+"Now listen!" protested Evans, who seemed to be shivering as much with
+fear as with the cold, "you guys talk like you expected me to pull a
+fast one. Hell, it's complicated enough if we all tell the truth--don't
+worry about me!"
+
+"I was using you for an example," Archer told him. "The same thing
+applies to each of us, and we should all be able to see that honesty
+is the only workable policy. There's one more little matter to be
+decided: the order in which we report. I think it would be fair to
+reverse the order of exposure, which would probably make it the order
+of observation. I was exposed last, so I'll report first, then Evans,
+then Stokely.
+
+"Now I'd suggest we take our positions, so we can kill these lights and
+let our eyes get used to the dark. There's only six to eight minutes to
+go."
+
+Archer turned and started off, half expecting some last-minute
+objection from Stokely. But the latter merely waited to assure himself
+by means of his flashlight that Archer and Evans were half-way to their
+appointed places, then started making his way toward his own.
+
+       *       *       *       *       *
+
+The spot to which Archer had assigned himself turned out to be a
+jumble of loose rocks, complete with small and unpleasant denizens.
+He frowned. The footing would be very bad for dodging bullets, should
+matters turn out unsatisfactory to Stokely.
+
+As the latter reached his position, about 75 feet away, Archer called
+out:
+
+"Let's all face the ship, and don't anybody move after the lights are
+out, or you'll lose your orientation. Don't even shift your feet! Four
+to six minutes to go--but it could be sooner! I'm stripping down now."
+
+He switched off his flashlight, and after a moment, Stokely and Evans
+did likewise. The night closed in disconcertingly, the utter dark
+wiping out all visual cues and rendering one's very balance momentarily
+precarious.
+
+Archer removed the watch from his wrist and placed it in his
+pocket. Its face was luminous, and he was uncertain of its possible
+competition. He doffed his jacket and tied it about his hips, then
+unzipped his shirt to the waist and slipped it from his shoulders,
+tucking the sleeves into his belt.
+
+The air was too dry for a sudden shock of cold, but within seconds his
+outer flesh began to ache dully, and there was difficulty in expanding
+his chest sufficiently to breathe. He wondered how much of it a healthy
+man could stand before pneumonia became certain.
+
+Stokely was apparently trying to warm things up in his vicinity with a
+muttered string of vehement oaths, and Archer thought he heard a low
+groan from the direction of Evans.
+
+The black border of the horizon was becoming visible now against the
+lesser darkness of the sky. Directly before him was the outline of the
+ship, the control-room ports showing dim and ghostly above with the
+light seeping up from the waist compartment.
+
+Archer began turning his head back and forth at about ten-second
+intervals, staring into the blackness approximately 60 degrees each
+side of center, swinging his arms and flexing the muscles of his torso
+in a losing battle against the advancing numbness.
+
+He started suddenly at a slight sound of movement in the rocks not two
+yards away in the direction of Evans. But it was far too faint for
+human feet on that treacherous ground. More probably it was some small
+monster--quite possibly attracted by the dubious warmth of Archer's
+body, which was certainly radiating for all it was worth.
+
+Wryly, he thought of one of the more abhorrent of the local fauna, a
+lizard-like creature which attacked any animal which had the single
+qualification of being within a considerable jumping range. The beastie
+combined the least intelligence with the most virulent poison in
+several star-systems. With barbed feet and tail, it clung to its victim
+through the death throes--which usually began immediately--and unless
+torn apart or crushed in the process, it fed. Fortunately, the species
+was one of hundreds equally numerous and generally less deadly.
+
+       *       *       *       *       *
+
+At least five minutes had passed, by the most meticulous of estimates,
+when Archer saw the glow. He had been looking at it for several
+seconds, in the direction of Stokely, before he realized what it was.
+
+He had expected a modification of the greenish luminescence of the
+jade itself. But this was a mere patch of gray in the blackness, to
+begin with. It whitened, gradually revealing the blurred silhouette of
+the man within it. At that level it remained, and his outline grew no
+sharper. By blinking several times, Archer was able to distinguish the
+arms from the rest of him, and assumed from their respective positions
+that Stokely was holding his gun in his left hand, the syringe in his
+right.
+
+It seemed twice as long--by which Archer judged it was about
+half--before a similar dusky patch became visible in the direction of
+Evans. He showed up very soon thereafter, because unlike Stokely, he
+was churning his arms as if in direct combat with the cold.
+
+Archer began to count slowly to himself, swinging his arms in a
+period of about a second. He had not done so before, because it would
+have served no particular purpose, and would have made the time seem
+even longer. Now it was important not to allow too long an interval
+following the second revelation of the deadly symptom. There must not
+be too much time for the others to think about the situation.
+
+Yet there must be enough to insure his showing the symptom himself, if
+he were going to. He estimated that Evans' period of "incubation" had
+varied from Stokely's by about a minute, allowing for the difference in
+the time of exposure. If Archer's varied from Evans' by as much as two
+minutes, there could still be three minutes or more to go. Of course,
+it was possible that he already showed it--or even that he had been the
+first. Five minutes should allow a safe margin, he decided.
+
+Two minutes of it were now gone. Archer's arms felt like lead-weighted
+pendulums, yet he restrained the tendency to urge them to more rapid
+motion. The count of 60 took a small eternity.
+
+Three minutes. His arms were so numb it was occasionally difficult to
+tell for sure when they had reached the end of their swing. It would
+have been reassuring to be able to see them. He widened his eyes and
+blinked rapidly, trying to penetrate the dark, and momentarily he
+almost fancied he saw a dim haze about him. He thought of the dead man
+they had found in the pilot's seat. There were no limits to the fallacy
+of human vision, under emotional stress.
+
+Four minutes. If the original 20-minute period happened to be over
+and the others were aware of it, they made no sign. That would not be
+strange. Having agreed that Archer would make the first report, they
+would hesitate to venture any comment, for fear of dropping some kind
+of hint.
+
+Five minutes. Archer fumbled awkwardly for his watch. If all his
+estimates, pieced together, were correct, there should still be a
+minute to go.
+
+He was amazed to find that there was not. By leaning over backward in
+his guesses, he had actually managed to be conservative. The time was
+up--in fact, it was almost 15 seconds past. It was time to get the
+formalities over with and end this desperate game.
+
+"All right!" Archer said loudly, his voice cracking slightly. "It's
+time to report, and here's mine--" He paused briefly, then finished: "I
+see it."
+
+       *       *       *       *       *
+
+It was now up to the others either to lie or to admit they saw it. It
+didn't particularly matter which, but Archer rather expected the truth.
+Evans was next.
+
+After a moment, the latter's voice came somewhat falteringly, but
+clearly enough: "I see it."
+
+Surprisingly, Stokely did not keep them waiting. His report came
+immediately, in a hoarse monotone: "I see it."
+
+_Now._ Archer's gaze swung back and forth between the two others during
+the space of a long breath. Their shadowy figures did not move, but
+stood irresolute.
+
+Archer exhaled with vast relief. "Okay, you fellows," he announced,
+"we've all got it. Here goes my injection."
+
+Watching Stokely carefully, he plucked the syringe from his belt with
+enormous caution, and forced his feeble right hand to drive the needle
+into his left forearm and press the plunger all the way. There was one
+slight advantage to the cold, after all--he hardly felt the perforation.
+
+He dared not pull up his shirt as yet. It could very easily have the
+effect of making him fade partially from Stokely's view, and might
+provoke the big man into blazing away at him.
+
+It was quite possible that Stokely would shoot anyhow, though under the
+circumstances his aim might not be at its best.
+
+"You lie!" Stokely said suddenly, as between clenched teeth. "The only
+way you could know about yourself would be if I didn't have it. Then
+you'd know where Evans must have seen it."
+
+"One minute ago," said Archer, "that would have been true. And if
+you had thought of it a minute ago, instead of just now, things might
+have been different. But putting yourself in my position with respect
+to Evans, or in his with respect to me, was too big a step for your
+egocentric mind. You haven't quite done it yet, or you would understand
+this:
+
+"If you hadn't shown the aura, I would have known _instantly_ that I
+did. Also, Evans would have known about himself, immediately. But we
+didn't know, immediately. None of us did. And there is only one way we
+could all see it and remain uncertain. That is for all of us to have
+it. I didn't know, you both didn't know--and therefore I knew. Can you
+follow that?"
+
+After a pause, Archer went on: "Incidentally, I wouldn't let a dog die
+the way both of you are going to in the next few minutes unless you do
+something about it. That's why I've taken the trouble to explain it."
+
+Evans suddenly cleared his throat, and his voice came plaintively:
+"Uh--are you sure I've got it, Mr. Archer?" The necessity of the
+conclusion was clearly beyond him.
+
+"Quite sure," Archer returned, noting that Evans had sought the truth
+from him instead of his own colleague in crime.
+
+"That's good enough for me." Evans' motions showed dimly that he was
+making the injection.
+
+But Archer spared him only a glance and turned back to watching
+Stokely. The latter had not yet moved.
+
+"Okay, Stokely," said Archer, "I'll give you a better break than you'd
+give me--I'll prove it to you. You're facing me now. Raise either arm,
+and I'll tell you which one it is."
+
+Stokely seemed to hesitate, then raised both arms to the horizontal.
+
+"You're pretty sharp, at that," Archer told him, "when it comes to
+thinking from your own corner. You raised both of them."
+
+Stokely's arms dropped, but not all the way. There was a motion as of
+applying the hypodermic.
+
+Quickly, Archer drew the sleeves of his shirt over his arms. But he
+had counted too heavily on Stokely's preoccupation. The latter turned
+rigidly, as if continuing the injection, and fired.
+
+Archer felt a shock which spun him half around, but could not tell just
+where he was hit, for the moment. He began to run awkwardly through
+the loose rocks toward the sanctuary of the pile of boulders, raising
+his jacket high to screen his head. In doing so, the location of his
+wound became evident with a jab of pain. His left arm was useless.
+
+The next instant, the glaring beam of Stokely's flashlight picked him
+out, and the second bullet spanged against a boulder just as he ducked
+behind it, peppering his cheek with rock dust.
+
+Stooping low, Archer moved around the pile, as the crunching sound of
+Stokely's rapid footsteps came closer. He cursed the luck that had
+enabled Stokely to cripple him. He felt his paralyzed arm gingerly--the
+bullet had struck just below the shoulder, and he guessed that the bone
+was broken, but the wound did not seem to be bleeding much.
+
+There was no use making a break for the next heap of rocks over this
+treacherous ground, even if he knew precisely where it lay. He would
+simply have to play tag with Stokely until--
+
+Suddenly, the footsteps slowed and seemed to stumble. There was a
+clattering among the rocks and the lancing beam of the flashlight cut
+off. Darkness and silence descended.
+
+       *       *       *       *       *
+
+Will Archer waited tensely. If all were well, Stokely should be out
+like the light he had been carrying. But Archer was in no hurry about
+using his own. It would make him altogether too vulnerable, in case
+this just might be a ruse.
+
+Then from a little distance came the welcome beam of Evans' light.
+Archer peered out carefully and beheld the prone, unmoving figure of
+Stokely, his arms doubled under him as if to break his fall.
+
+Unhurriedly, Archer turned on his own flashlight, walked around and
+set it between two rocks so that its beam made a path of light between
+himself and the ship. He rolled the big man over with a thrust of
+his foot, exposing the gun underneath. This, and one gun from the
+unconscious man's two holsters, Archer picked up and stuck in his belt.
+The remaining one--Archer's own--he pointed at Evans, who had stopped
+ten yards away.
+
+The latter wore a puzzled expression--apparently at having found the
+wrong body.
+
+"What did you do," he asked Archer, "hit him with a rock? Is he dead?"
+
+"I wish I had," said Archer without humor, "and I wouldn't feel a bit
+bad if he were. In fact, I intend to see to it that he is lawfully
+executed. But in order to do that it will be necessary to get him back
+to the base. You're elected to drag him over to the hoist."
+
+Archer stooped again, without taking his eyes off Evans, and laid his
+gun on the ground. He took the kit of jade from Stokely's belt and
+pocketed it, then picked up the gun again and stepped back a few paces.
+
+"You can fasten his arms with his own belt," he told Evans, "and his
+legs with yours. He should sleep for hours, but there's no use taking
+chances."
+
+Evans came forward meekly and bent over Stokely, then looked up,
+startled. "The hypodermics! You must have put something in ours that--"
+
+"Not yours. Do you recall how willingly he took the one with the most
+in it? Well, he got no more antitoxin than you and I did. The rest was
+a quick-acting sedative that the doctor brought aboard in case we ran
+into a lunatic. I emptied most of it into the distilled water, but I
+left enough to do the trick. I trust you're buckling that belt good and
+tight."
+
+Evans' blue lips twisted glumly as he pulled off his own belt and
+applied it to Stokely's ankles. Suddenly, he smiled.
+
+"Say! What makes you think they'll believe your story about what
+happened? It's your word against ours. Suppose we tell 'em that--"
+
+"You're daydreaming," Archer broke in. "You'll be a lot better
+off to resign yourself to spending five or ten years in a penal
+colony--probably on some planet worse than this one.
+
+"In the first place, you could never pass the lie-detector test,
+although Stokely might. In the second place, it isn't just my word
+against yours--our psychometric ratings will be weighed, too, and I'll
+let you guess whose will be found wanting. And finally, what kind of
+criminal will murder for profit, then change his mind and toss the loot
+on the manager's desk, of his own free will?
+
+"Which is just what I intend to do. But there'll be one string
+attached. A sizable hunk of this stuff, together with a shiny new
+mallet, goes to Dr. Grimwood's pals."
+
+*** END OF THE PROJECT GUTENBERG EBOOK PHANTOM DUEL ***
+
+Updated editions will replace the previous one--the old editions will
+be renamed.
+
+Creating the works from print editions not protected by U.S. copyright
+law means that no one owns a United States copyright in these works,
+so the Foundation (and you!) can copy and distribute it in the
+United States without permission and without paying copyright
+royalties. Special rules, set forth in the General Terms of Use part
+of this license, apply to copying and distributing Project
+Gutenberg-tm electronic works to protect the PROJECT GUTENBERG-tm
+concept and trademark. Project Gutenberg is a registered trademark,
+and may not be used if you charge for an eBook, except by following
+the terms of the trademark license, including paying royalties for use
+of the Project Gutenberg trademark. If you do not charge anything for
+copies of this eBook, complying with the trademark license is very
+easy. You may use this eBook for nearly any purpose such as creation
+of derivative works, reports, performances and research. Project
+Gutenberg eBooks may be modified and printed and given away--you may
+do practically ANYTHING in the United States with eBooks not protected
+by U.S. copyright law. Redistribution is subject to the trademark
+license, especially commercial redistribution.
+
+START: FULL LICENSE
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full
+Project Gutenberg-tm License available with this file or online at
+www.gutenberg.org/license.
+
+Section 1. General Terms of Use and Redistributing Project
+Gutenberg-tm electronic works
+
+1.A. By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement. If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or
+destroy all copies of Project Gutenberg-tm electronic works in your
+possession. If you paid a fee for obtaining a copy of or access to a
+Project Gutenberg-tm electronic work and you do not agree to be bound
+by the terms of this agreement, you may obtain a refund from the
+person or entity to whom you paid the fee as set forth in paragraph
+1.E.8.
+
+1.B. "Project Gutenberg" is a registered trademark. It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement. There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement. See
+paragraph 1.C below. There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this
+agreement and help preserve free future access to Project Gutenberg-tm
+electronic works. See paragraph 1.E below.
+
+1.C. The Project Gutenberg Literary Archive Foundation ("the
+Foundation" or PGLAF), owns a compilation copyright in the collection
+of Project Gutenberg-tm electronic works. Nearly all the individual
+works in the collection are in the public domain in the United
+States. If an individual work is unprotected by copyright law in the
+United States and you are located in the United States, we do not
+claim a right to prevent you from copying, distributing, performing,
+displaying or creating derivative works based on the work as long as
+all references to Project Gutenberg are removed. Of course, we hope
+that you will support the Project Gutenberg-tm mission of promoting
+free access to electronic works by freely sharing Project Gutenberg-tm
+works in compliance with the terms of this agreement for keeping the
+Project Gutenberg-tm name associated with the work. You can easily
+comply with the terms of this agreement by keeping this work in the
+same format with its attached full Project Gutenberg-tm License when
+you share it without charge with others.
+
+1.D. The copyright laws of the place where you are located also govern
+what you can do with this work. Copyright laws in most countries are
+in a constant state of change. If you are outside the United States,
+check the laws of your country in addition to the terms of this
+agreement before downloading, copying, displaying, performing,
+distributing or creating derivative works based on this work or any
+other Project Gutenberg-tm work. The Foundation makes no
+representations concerning the copyright status of any work in any
+country other than the United States.
+
+1.E. Unless you have removed all references to Project Gutenberg:
+
+1.E.1. The following sentence, with active links to, or other
+immediate access to, the full Project Gutenberg-tm License must appear
+prominently whenever any copy of a Project Gutenberg-tm work (any work
+on which the phrase "Project Gutenberg" appears, or with which the
+phrase "Project Gutenberg" is associated) is accessed, displayed,
+performed, viewed, copied or distributed:
+
+  This eBook is for the use of anyone anywhere in the United States and
+  most other parts of the world at no cost and with almost no
+  restrictions whatsoever. You may copy it, give it away or re-use it
+  under the terms of the Project Gutenberg License included with this
+  eBook or online at www.gutenberg.org. If you are not located in the
+  United States, you will have to check the laws of the country where
+  you are located before using this eBook.
+
+1.E.2. If an individual Project Gutenberg-tm electronic work is
+derived from texts not protected by U.S. copyright law (does not
+contain a notice indicating that it is posted with permission of the
+copyright holder), the work can be copied and distributed to anyone in
+the United States without paying any fees or charges. If you are
+redistributing or providing access to a work with the phrase "Project
+Gutenberg" associated with or appearing on the work, you must comply
+either with the requirements of paragraphs 1.E.1 through 1.E.7 or
+obtain permission for the use of the work and the Project Gutenberg-tm
+trademark as set forth in paragraphs 1.E.8 or 1.E.9.
+
+1.E.3. If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any
+additional terms imposed by the copyright holder. Additional terms
+will be linked to the Project Gutenberg-tm License for all works
+posted with the permission of the copyright holder found at the
+beginning of this work.
+
+1.E.4. Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5. Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6. You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including
+any word processing or hypertext form. However, if you provide access
+to or distribute copies of a Project Gutenberg-tm work in a format
+other than "Plain Vanilla ASCII" or other format used in the official
+version posted on the official Project Gutenberg-tm website
+(www.gutenberg.org), you must, at no additional cost, fee or expense
+to the user, provide a copy, a means of exporting a copy, or a means
+of obtaining a copy upon request, of the work in its original "Plain
+Vanilla ASCII" or other form. Any alternate format must include the
+full Project Gutenberg-tm License as specified in paragraph 1.E.1.
+
+1.E.7. Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8. You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works
+provided that:
+
+* You pay a royalty fee of 20% of the gross profits you derive from
+  the use of Project Gutenberg-tm works calculated using the method
+  you already use to calculate your applicable taxes. The fee is owed
+  to the owner of the Project Gutenberg-tm trademark, but he has
+  agreed to donate royalties under this paragraph to the Project
+  Gutenberg Literary Archive Foundation. Royalty payments must be paid
+  within 60 days following each date on which you prepare (or are
+  legally required to prepare) your periodic tax returns. Royalty
+  payments should be clearly marked as such and sent to the Project
+  Gutenberg Literary Archive Foundation at the address specified in
+  Section 4, "Information about donations to the Project Gutenberg
+  Literary Archive Foundation."
+
+* You provide a full refund of any money paid by a user who notifies
+  you in writing (or by e-mail) within 30 days of receipt that s/he
+  does not agree to the terms of the full Project Gutenberg-tm
+  License. You must require such a user to return or destroy all
+  copies of the works possessed in a physical medium and discontinue
+  all use of and all access to other copies of Project Gutenberg-tm
+  works.
+
+* You provide, in accordance with paragraph 1.F.3, a full refund of
+  any money paid for a work or a replacement copy, if a defect in the
+  electronic work is discovered and reported to you within 90 days of
+  receipt of the work.
+
+* You comply with all other terms of this agreement for free
+  distribution of Project Gutenberg-tm works.
+
+1.E.9. If you wish to charge a fee or distribute a Project
+Gutenberg-tm electronic work or group of works on different terms than
+are set forth in this agreement, you must obtain permission in writing
+from the Project Gutenberg Literary Archive Foundation, the manager of
+the Project Gutenberg-tm trademark. Contact the Foundation as set
+forth in Section 3 below.
+
+1.F.
+
+1.F.1. Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+works not protected by U.S. copyright law in creating the Project
+Gutenberg-tm collection. Despite these efforts, Project Gutenberg-tm
+electronic works, and the medium on which they may be stored, may
+contain "Defects," such as, but not limited to, incomplete, inaccurate
+or corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged disk or
+other medium, a computer virus, or computer codes that damage or
+cannot be read by your equipment.
+
+1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from. If you
+received the work on a physical medium, you must return the medium
+with your written explanation. The person or entity that provided you
+with the defective work may elect to provide a replacement copy in
+lieu of a refund. If you received the work electronically, the person
+or entity providing it to you may choose to give you a second
+opportunity to receive the work electronically in lieu of a refund. If
+the second copy is also defective, you may demand a refund in writing
+without further opportunities to fix the problem.
+
+1.F.4. Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS', WITH NO
+OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5. Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of
+damages. If any disclaimer or limitation set forth in this agreement
+violates the law of the state applicable to this agreement, the
+agreement shall be interpreted to make the maximum disclaimer or
+limitation permitted by the applicable state law. The invalidity or
+unenforceability of any provision of this agreement shall not void the
+remaining provisions.
+
+1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in
+accordance with this agreement, and any volunteers associated with the
+production, promotion and distribution of Project Gutenberg-tm
+electronic works, harmless from all liability, costs and expenses,
+including legal fees, that arise directly or indirectly from any of
+the following which you do or cause to occur: (a) distribution of this
+or any Project Gutenberg-tm work, (b) alteration, modification, or
+additions or deletions to any Project Gutenberg-tm work, and (c) any
+Defect you cause.
+
+Section 2. Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of
+computers including obsolete, old, middle-aged and new computers. It
+exists because of the efforts of hundreds of volunteers and donations
+from people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come. In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future
+generations. To learn more about the Project Gutenberg Literary
+Archive Foundation and how your efforts and donations can help, see
+Sections 3 and 4 and the Foundation information page at
+www.gutenberg.org
+
+Section 3. Information about the Project Gutenberg Literary
+Archive Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non-profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service. The Foundation's EIN or federal tax identification
+number is 64-6221541. Contributions to the Project Gutenberg Literary
+Archive Foundation are tax deductible to the full extent permitted by
+U.S. federal laws and your state's laws.
+
+The Foundation's business office is located at 809 North 1500 West,
+Salt Lake City, UT 84116, (801) 596-1887. Email contact links and up
+to date contact information can be found at the Foundation's website
+and official page at www.gutenberg.org/contact
+
+Section 4. Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without
+widespread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine-readable form accessible by the widest
+array of equipment including outdated equipment. Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States. Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements. We do not solicit donations in locations
+where we have not received written confirmation of compliance. To SEND
+DONATIONS or determine the status of compliance for any particular
+state visit www.gutenberg.org/donate
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States. U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg web pages for current donation
+methods and addresses. Donations are accepted in a number of other
+ways including checks, online payments and credit card donations. To
+donate, please visit: www.gutenberg.org/donate
+
+Section 5. General Information About Project Gutenberg-tm electronic works
+
+Professor Michael S. Hart was the originator of the Project
+Gutenberg-tm concept of a library of electronic works that could be
+freely shared with anyone. For forty years, he produced and
+distributed Project Gutenberg-tm eBooks with only a loose network of
+volunteer support.
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as not protected by copyright in
+the U.S. unless a copyright notice is included. Thus, we do not
+necessarily keep eBooks in compliance with any particular paper
+edition.
+
+Most people start at our website which has the main PG search
+facility: www.gutenberg.org
+
+This website includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.

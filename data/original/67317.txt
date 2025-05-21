@@ -1,0 +1,959 @@
+﻿The Project Gutenberg eBook of King of the Hill, by James Blish
+
+This eBook is for the use of anyone anywhere in the United States and
+most other parts of the world at no cost and with almost no restrictions
+whatsoever. You may copy it, give it away or re-use it under the terms
+of the Project Gutenberg License included with this eBook or online at
+www.gutenberg.org. If you are not located in the United States, you
+will have to check the laws of the country where you are located before
+using this eBook.
+
+Title: King of the Hill
+
+Author: James Blish
+
+Release Date: February 4, 2022 [eBook #67317]
+
+Language: English
+
+Produced by: Greg Weeks, Mary Meehan and the Online Distributed
+             Proofreading Team at http://www.pgdp.net
+
+*** START OF THE PROJECT GUTENBERG EBOOK KING OF THE HILL ***
+
+
+
+
+
+                           KING OF THE HILL
+
+                            by JAMES BLISH
+
+                        Illustrated by GRIFFITH
+
+                    _A madman can be prevented from
+                   bomb-throwing--but a mad world?_
+
+           [Transcriber's Note: This etext was produced from
+               Infinity Science Fiction, November 1955.
+         Extensive research did not uncover any evidence that
+         the U.S. copyright on this publication was renewed.]
+
+
+It did Col. Hal Gascoigne no good whatsoever to know that he was the
+only man aboard Satellite Vehicle 1. No good at all. He had stopped
+reminding himself of the fact some time back.
+
+And now, as he sat sweating in the perfectly balanced air in front of
+the bombardier board, one of the men spoke to him again:
+
+"Colonel, sir--"
+
+Gascoigne swung around in the seat, and the sergeant--Gascoigne could
+almost remember the man's name--threw him a snappy Air Force salute.
+
+"Well?"
+
+"Bomb one is primed, sir. Your orders?"
+
+"My orders?" Gascoigne said wonderingly. But the man was already
+gone. Gascoigne couldn't actually _see_ the sergeant leave the control
+cabin, but he was no longer in it.
+
+While he tried to remember, another voice rang in the cabin, as flat
+and razzy as all voices sound on an intercom.
+
+"Radar room. On target."
+
+A regular, meaningless peeping. The timing circuit had cut in.
+
+Or had it? There was nobody in the radar room. There was nobody in
+the bomb hold, either. There had never been anybody on board SV-1 but
+Gascoigne, not since he had relieved Grinnell--and Grinnell had flown
+the station up here in the first place.
+
+Then who had that sergeant been? His name was--It was--
+
+The hammering of the teletype blanked it out. The noise was as loud as
+a pom-pom in the echoing metal cave. He got up and coasted across the
+deck to the machine, gliding in the gravity-free cabin with the ease of
+a man to whom free fall is almost second nature.
+
+The teletype was silent by the time he reached it, and at first the
+tape looked blank. He wiped the sweat out of his eyes. There was the
+message.
+
+                MNBVCXZ LKJ HGFDS PYTR AOIU EUIO QPALZM
+
+He got out his copy of "The Well-Tempered Pogo" and checked the
+speeches of Grundoon the Beaver-Chile for the key letter-sequence on
+which the code was based. There weren't very many choices. He had the
+clear in ten minutes.
+
+                BOMB ONE WASHINGTON 1700 HRS TAMMANANY
+
+There it was. That was what he had been priming the bomb for. But there
+should have been earlier orders, giving him the go-ahead to prime. He
+began to rewind the paper.
+
+It was all blank.
+
+And--_Washington_? Why would the Joint Chiefs of Staff order him--
+
+"Col. Gascoigne, sir--"
+
+Gascoigne jerked around and returned the salute. "What's your name?" he
+snapped.
+
+"Sweeney, sir," the corporal said. Actually it didn't sound very much
+like Sweeney, or like anything else; it was just a noise. Yet the man's
+face looked familiar. "Ready with bomb two, sir."
+
+The corporal saluted, turned, took two steps, and faded. He did not
+vanish, but he did not go out the door, either. He simply receded,
+became darker and harder to distinguish, and was no longer there. It
+was as though he and Gascoigne had disagreed about the effects of
+perspective in the glowing Earthlight, and Gascoigne had turned out to
+be wrong.
+
+Numbly, he finished rewinding the paper. There was no doubt about it.
+There the order stood, black on yellow, as plain as plain. Bomb the
+capital of your own country at 1700 hours. Just incidentally, bomb
+your own home in the process, but don't give that a second thought. Be
+thorough, drop two bombs; don't worry about missing by a few seconds of
+arc and hitting Baltimore instead, or Silver Spring, or Milford, Del.
+CIG will give you the coordinates, but plaster the area anyhow. That's
+S.O.P.
+
+With rubbery fingers, Gascoigne began to work the keys of the teletype.
+Sending on the frequency of Civilian Intelligence Group, he typed:
+
+    HELP SHOUT SERIOUS REPEAT SERIOUS PERSONNEL TROUBLE HERE STOP DON'T
+    KNOW HOW LONG I CAN KEEP IT DOWN STOP URGENT GASCOIGNE SV ONE STOP
+
+Behind him, the oscillator peeped rhythmically, timing the drive on the
+launching rack trunnion.
+
+"Radar room. On target."
+
+Gascoigne did not turn. He sat before the bombardier board and sweated
+in the perfectly balanced air. Inside his skull, his own voice was
+shouting:
+
+STOP STOP STOP
+
+       *       *       *       *       *
+
+That, as we reconstructed it afterwards, is how the SV-1 affair began.
+It was pure luck, I suppose, that Gascoigne sent his message direct
+to us. Civilian Intelligence Group is rarely called into an emergency
+when the emergency is just being born. Usually Washington tries to do
+the bailing job first. Then, when Washington discovers that the boat is
+still sinking, it passes the bailing can to us--usually with a demand
+that we transform it into a centrifugal pump, on the double.
+
+We don't mind. Washington's failure to develop a government department
+similar in function to CIG is the reason why we're in business. The
+profits, of course, go to Affiliated Enterprises, Inc., the loose
+corporation of universities and industries which put up the money to
+build ULTIMAC--and ULTIMAC is, in turn, the reason why Washington comes
+running to CIG so often.
+
+This time, however, it did not look like the big computer was going
+to be of much use to us. I said as much to Joan Hadamard, our social
+sciences division chief, when I handed her the message.
+
+"Um," she said. "_Personnel_ trouble? What does he mean? He hasn't got
+any personnel on that station."
+
+This was no news to me. CIG provided the figures that got the SV-1 into
+its orbit in the first place, and it was on our advice that it carried
+only one man. The crew of a space vessel either has to be large or it
+has to be a lone man; there is no intermediate choice. And SV-1 wasn't
+big enough to carry a large crew--not to carry them and keep the men
+from flying at each other's throats sooner or later, that is.
+
+"He means himself," I said. "That's why I don't think this is a job
+for the computer. It's going to have to be played person-to-person.
+It's my bet that the man's responsibility-happy; that danger was always
+implicit in the one-man recommendation."
+
+"The only decent solution is a full complement," Joan agreed. "Once the
+Pentagon can get enough money from Congress to build a big station."
+
+"What puzzles me is, why did he call us instead of his superiors?"
+
+"That's easy. We process his figures. He trusts us. The Pentagon thinks
+we're infallible, and he's caught the disease from them."
+
+"That's bad," I said.
+
+"I've never denied it."
+
+"No, what I mean is that it's bad that he called us instead of going
+through channels. It means that the emergency is at least as bad as he
+says it is."
+
+I thought about it another precious moment longer while Joan did some
+quick dialing. As everybody on Earth--with the possible exception of
+a few Tibetans--already knew, the man who rode SV-1 rode with three
+hydrogen bombs immediately under his feet--bombs which he could drop
+with great precision on any spot on the Earth. Gascoigne was, in
+effect, the sum total of American foreign policy; he might as well have
+had "Spatial Supremacy" stamped on his forehead.
+
+"What does the Air Force say?" I asked Joan as she hung up.
+
+"They say they're a little worried about Gascoigne. He's a very stable
+man, but they had to let him run a month over his normal replacement
+time--why, they don't explain. He's been turning in badly garbled
+reports over the last week. They're thinking about giving him a
+dressing down."
+
+"Thinking! They'd better be careful with that stuff, or they'll hurt
+themselves. Joan, somebody's going to have to go up there. I'll arrange
+fast transportation, and tell Gascoigne that help is coming. Who should
+go?"
+
+"I don't have a recommendation," Joan said. "Better ask the computer."
+
+I did so--on the double.
+
+ULTIMAC said: _Harris_.
+
+"Good luck, Peter," Joan said calmly. Too calmly.
+
+"Yeah," I said. "Or good night."
+
+       *       *       *       *       *
+
+Exactly what I expected to happen as the ferry rocket approached SV-1,
+I don't now recall. I had decided that I couldn't carry a squad with
+me. If Gascoigne was really far gone, he wouldn't allow a group of men
+to disembark; one man, on the other hand, he might pass. But I suppose
+I did expect him to put up an argument first.
+
+Nothing happened. He did not challenge the ferry, and he didn't answer
+hails. Contact with the station was made through the radar automatics,
+and I was put off on board as routinely as though I was being let into
+a movie--but a lot more rapidly.
+
+The control room was dark and confusing, and at first I didn't see
+Gascoigne anywhere. The Earthlight coming through the observation port
+was brilliant, but beyond the edges of its path the darkness was almost
+absolute, broken only by the little stars of indicator lenses.
+
+A faint snicking sound turned my eyes in the right direction. There was
+Gascoigne. He was hunched over the bombardier board, his back to me. In
+one hand he held a small tool resembling a ticket-punch. Its jaws were
+nibbling steadily at a taut line of tape running between two spools;
+that had been the sound I'd heard. I recognized the device without any
+trouble; it was a programmer.
+
+But why hadn't Gascoigne heard me come in? I hadn't tried to sneak up
+on him, there is no quiet way to come through an airlock anyway. But
+the punch went on snicking steadily.
+
+"Col. Gascoigne," I said. There was no answer. I took a step forward.
+"Col. Gascoigne, I'm Harris of CIG. What are you doing?"
+
+The additional step did the trick. "Stay away from me," Gascoigne
+growled, from somewhere way down in his chest. "I'm programming the
+bomb. Punching in the orders myself. Can't depend on my crew. Stay
+away."
+
+"Give over for a minute, I want to talk to you."
+
+"That's a new one," said Gascoigne, not moving. "Most of you guys
+were rushing to set up launchings before you even reported to me. Who
+the hell are you, anyhow? There's nobody on board, I know _that_ well
+enough."
+
+"I'm Peter Harris," I said. "From CIG--you called us, remember? You
+asked us to send help."
+
+"Doesn't prove a thing. Tell me something I _don't_ know. Then maybe
+I'll believe you exist. Otherwise--beat it."
+
+"Nothing doing. Put down that punch."
+
+Gascoigne straightened slowly and turned to look at me. "Well, you
+don't vanish, I'll give you that," he said. "What did you say your name
+was?"
+
+"Harris. Here's my ID card."
+
+Gascoigne took the plastic-coated card tentatively, and then removed
+his glasses and polished them. The gesture itself was perfectly
+ordinary, and wouldn't have surprised me--except that Gascoigne was not
+wearing glasses.
+
+"It's hard to see in here," he complained. "Everything gets so steamed
+up. Hm. All right, you're real. What do you want?"
+
+His finger touched a journal. Silently, the tape began to roll from one
+spool to another.
+
+"Gascoigne, stop that thing. If you drop any bombs there'll be hell to
+pay. It's tense enough down below as it is. And there's no reason to
+bomb anybody."
+
+"Plenty of reason," Gascoigne muttered. He turned toward the teletype,
+exposing to me for the first time a hip holster cradling a large, black
+automatic. I didn't doubt that he could draw it with fabulous rapidity,
+and put the bullets just where he wanted them to go. "I've got orders.
+There they are. See for yourself."
+
+Cautiously, I sidled over to the teletype and looked. Except for
+Gascoigne's own message to CIG, and one from Joan Hadamard announcing
+that I was on my way, the paper was totally blank. There had been no
+other messages that day unless Gascoigne had changed the roll, and
+there was no reason why he should have. Those rolls last close to
+forever.
+
+"When did this order come in?"
+
+"This morning some time. I don't know. Sweeney!" he bawled suddenly, so
+loud that the paper tore in my hands. "When did that drop order come
+through?"
+
+Nobody answered. But Gascoigne said almost at once, "There, you heard
+him."
+
+"I didn't hear anything but you," I said, "and I'm going to stop that
+tape. Stand aside."
+
+"Not a chance, Mister," Gascoigne said grimly. "The tape rides."
+
+"Who's getting hit?"
+
+"Washington," Gascoigne said, and passed his hand over his face. He
+appeared to have forgotten the imaginary spectacles.
+
+"That's where your home is, isn't it?"
+
+"It sure is," Gascoigne said. "It sure as hell is, Mister. Cute, isn't
+it?"
+
+It was cute, all right. The Air Force boys at the Pentagon were going
+to be given about ten milliseconds to be sorry they'd refused to send
+a replacement for Gascoigne along with me. _Replace him with who? We
+can't send his second alternate in anything short of a week. The man
+has to have retraining, and the first alternate's in the hospital with
+a ruptured spleen. Besides, Gascoigne's the best man for the job; he's
+got to be bailed out somehow._
+
+Sure. With a psychological centrifugal pump, no doubt. In the meantime
+the tape kept right on running.
+
+       *       *       *       *       *
+
+"You might as well stop wiping your face, and turn down the humidity
+instead," I said. "You've already smudged your glasses again."
+
+"Glasses?" Gascoigne muttered. He moved slowly across the cabin,
+sailing upright like a sea-horse, to the blank glass of a closed port.
+I seriously doubted that he could see his reflection in it, but maybe
+he didn't really want to see it. "I messed them up, all right. Thanks."
+He went through the polishing routine again.
+
+A man who thinks he is wearing glasses also thinks he can't see without
+them. I slid to the programmer and turned off the tape. I was between
+the spools and Gascoigne now--but I couldn't stay there forever.
+
+"Let's talk a minute, Colonel," I said. "Surely it can't do any harm."
+
+Gascoigne smiled, with a sort of childish craft. "I'll talk," he said.
+"Just as soon as you start that tape again. I was watching you in the
+mirror, _before_ I took my glasses off."
+
+The liar. I hadn't made a move while he'd been looking into that
+porthole. His poor pitiful weak old rheumy eyes had seen every move I
+made while he was polishing his "glasses." I shrugged and stepped away
+from the programmer.
+
+"You start it," I said. "I won't take the responsibility."
+
+"It's orders," Gascoigne said woodenly. He started the tape running
+again. "It's their responsibility. What did you want to talk to me
+about, anyhow?"
+
+"Col. Gascoigne, have you ever killed anybody?"
+
+He looked startled. "Yes, once I did," he said, almost eagerly. "I
+crashed a plane into a house. Killed the whole family. Walked away with
+nothing worse than a burned leg--good as new after a couple of muscle
+stabilizations. That's what made me shift from piloting to weapons;
+that leg's not quite good enough to fly with any more."
+
+"Tough."
+
+He snickered suddenly, explosively. "And now look at me," he said. "I'm
+going to kill my _own_ family in a little while. And millions of other
+people. Maybe the whole world."
+
+How long was "a little while"?
+
+"What have you got against it?" I said.
+
+"Against what--the world? Nothing. Not a damn thing. Look at me: I'm
+king of the hill up here. I can't complain."
+
+He paused and licked his lips. "It was different when I was a kid,"
+he said. "Not so dull, then. In those days you could get a real
+newspaper, that you could unfold for the first time yourself, and pick
+out what you wanted to read. Not like now, when the news comes to you
+predigested on a piece of paper out of your radio. That's what's the
+matter with it, if you ask me."
+
+"What's the matter with what?"
+
+"With the news--that's why it's always bad these days. Everything's had
+something done to it. The milk is homogenized, the bread is sliced, the
+cars steer themselves, the phonographs will produce sounds no musical
+instrument could make. Too much meddling, too many people who can't
+keep their hands off things. Ever fire a kiln?"
+
+"Me?" I said, startled.
+
+"No, I didn't think so. Nobody makes pottery these days. Not by hand.
+And if they did, who'd buy it? They don't want something that's been
+made. They want something that's been Done To."
+
+The tape kept on traveling. Down below, there was a heavy rumble,
+difficult to identify specifically: something heavy being shifted on
+tracks, or maybe a freight lock opening.
+
+"So now you're going to Do Something to the Earth," I said slowly.
+
+"Not me. It's orders."
+
+"Orders from inside, Col. Gascoigne. There's nothing on the spools."
+What else could I do? I didn't have time to take him through two years
+of psychoanalysis and bring him to his own insight. Besides, I'm not
+licensed to practice medicine--not on Earth. "I didn't want to say so,
+but I have to now."
+
+"Say what?" Gascoigne said suspiciously. "That I'm crazy or something?"
+
+"No. I didn't say that. You did," I pointed out. "But I will tell you
+that that stuff about not liking the world these days is baloney. Or
+rationalization, if you want a nicer word. You're carrying a screaming
+load of guilt, Colonel, whether you're aware of it or not."
+
+"I don't know what you're talking about. Why don't you just beat it?"
+
+"No. And you know well enough. You fell all over yourself to tell me
+about the family you killed in your flying accident." I gave him ten
+seconds of silence, and then shot the question at him as hard as I
+could. "_What was their name?_"
+
+"How do I know? Sweeney or something. Anything. I don't remember."
+
+"Sure you do. Do you think that killing your own family is going to
+bring the Sweeneys back to life?"
+
+Gascoigne's mouth twisted, but he seemed to be entirely unaware of the
+grimace. "That's all hogwash," he said. "I never did hold with that
+psychological claptrap. It's you that's handing out the baloney, not
+me."
+
+"Then why are you being so vituperative about it? Hogwash, claptrap,
+baloney--you are working awfully hard to knock it down, for a man who
+doesn't believe in it."
+
+"Go away," he said sullenly. "I've got my orders. I'm obeying them."
+
+Stalemate. But there was no such thing as stalemate up here. Defeat was
+the word.
+
+       *       *       *       *       *
+
+The tape traveled. I did not know what to do. The last bomb problem CIG
+had tackled had been one we had set up ourselves; we had arranged for a
+dud to be dropped in New York harbor, to test our own facilities for
+speed in determining the nature of the missile. The situation on board
+SV-1 was completely different--
+
+Whoa. Was it? Maybe I'd hit something there.
+
+"Col. Gascoigne," I said slowly, "you might as well know now that it
+isn't going to work. Not even if you do get that bomb off."
+
+"Yes, I can. What's to stop me?" He hooked one thumb in his belt, just
+above the holster, so that his fingertips rested on the breech of the
+automatic.
+
+"Your bombs. They aren't alive."
+
+Gascoigne laughed harshly and waved at the controls. "Tell that to the
+counter in the bomb hold. Go ahead. There's a meter you can read, right
+there on the bombardier board."
+
+"Sure," I said. "The bombs are radioactive, all right. Have you ever
+checked their half-life?"
+
+It was a long shot. Gascoigne was a weapons man; if it were possible
+to check half-life on board the SV-1, he would have checked it. But I
+didn't think it was possible.
+
+"What would I do that for?"
+
+"You wouldn't, being a loyal airman. You believe what your superiors
+tell you. But I'm a civilian, Colonel. There's no element in those
+bombs that will either fuse or fission. The half-life is too long for
+tritium or for lithium^6, and it's too short for uranium^{235} or
+radio-thorium. The stuff is probably strontium^{90}--in short, nothing
+but a bluff."
+
+"By the time I finished checking that," Gascoigne said, "the bomb would
+be launched anyhow. And you haven't checked it, either. Try another
+tack."
+
+"I don't need to. You don't have to believe me. We'll just sit here and
+wait for the bomb drop, and then the point will prove itself. After
+that, of course, you'll be court-martialed for firing a wild shot
+without orders. But since you're prepared to wipe out your own family,
+you won't mind a little thing like twenty years in the guardhouse."
+
+Gascoigne looked at the silently rolling tape. "Sure," he said. "I've
+got the orders, anyhow. The same thing would happen if I didn't obey
+them. If nobody gets hurt, so much the better."
+
+A sudden spasm of emotion--I took it to be grief, but I could have been
+wrong--shook his whole frame for a moment. Again, he did not seem to
+notice it. I said:
+
+"That's right. Not even your family. Of course the whole world will
+know the station's a bluff, but if those are the orders--"
+
+"I don't know," Gascoigne said harshly. "I don't know whether I even
+got any orders. I don't remember where I put them. Maybe they're not
+real." He looked at me confusedly, and his expression was frighteningly
+like that of a small boy making a confession.
+
+"You know something?" he said. "I don't know what's real any more. I
+haven't been able to tell, ever since yesterday. I don't even know if
+you are real, or your ID card either. What do you think of that?"
+
+"Nothing," I said.
+
+"Nothing? Nothing! That's my trouble. Nothing! I can't tell what's
+nothing and what's something. You say the bombs are duds. All right.
+But what if _you're_ the dud, and the bombs are real? Answer me that!"
+
+His expression was almost triumphant now.
+
+"The bombs are duds," I said. "And you've gone and steamed up your
+glasses again. Why don't you turn down the humidity, so you can see for
+three minutes and running?"
+
+Gascoigne leaned far forward, so far that he was perilously close to
+toppling, and peered directly into my face.
+
+"Don't give me that," he said hoarsely. "Don't--give--me--that--stuff."
+
+I froze right where I was. Gascoigne watched my eyes for a while. Then,
+slowly, he put his hand on his forehead and began to wipe it downward.
+He smeared it over his face, in slow motion, all the way down to his
+chin.
+
+Then he took the hand away and looked at it, as though it had just
+strangled him and he couldn't understand why. And finally he spoke.
+
+"It--isn't true," he said dully. "I'm not wearing any glasses. Haven't
+worn glasses since I was ten. Not since I broke my last pair--playing
+King of the Hill."
+
+He sat down before the bombardier board and put his head in his hands.
+
+"You win," he said hoarsely. "I must be crazy as a loon. I don't know
+what I'm seeing and what I'm not. You better take this gun away. If I
+fired it I might even hit something."
+
+"You're all right," I said. And I meant it; but I didn't waste any time
+all the same. The automatic first; then the tape. In that order, the
+sequence couldn't be reversed afterwards.
+
+But the sound of the programmer's journal clicking to "Off" was as loud
+in that cabin as any gunshot.
+
+       *       *       *       *       *
+
+"He'll be all right," I told Joan afterwards. "He pulled himself
+through. I wouldn't have dared to throw it at any other man that
+fast--but he's got guts."
+
+"Just the same," Joan said, "they'd better start rotating the station
+captains faster. The next man may not be so tough--and what if _he's_ a
+sleepwalker?"
+
+I didn't say anything. I'd had my share of worries for that week.
+
+"You did a whale of a job yourself, Peter," Joan said. "I just wish we
+could bank it in the machine. We might need the data later."
+
+"Well, why can't we?"
+
+"The Joint Chiefs of Staff say no. They don't say why. But they don't
+want any part of it recorded in ULTIMAC--or anywhere else."
+
+I stared at her. At first it didn't seem to make sense. And then it
+did--and that was worse.
+
+"Wait a minute," I said. "Joan--does that mean what I think it means?
+Is 'Spatial Supremacy' just as bankrupt as 'Massive Retaliation' was?
+Is it possible that the satellite--and the bombs.... Is it possible
+that I was telling Gascoigne the truth about the bombs being duds?"
+
+Joan shrugged.
+
+"He that darkeneth counsel without wisdom," she said, "isn't earning
+his salary."
+
+*** END OF THE PROJECT GUTENBERG EBOOK KING OF THE HILL ***
+
+Updated editions will replace the previous one--the old editions will
+be renamed.
+
+Creating the works from print editions not protected by U.S. copyright
+law means that no one owns a United States copyright in these works,
+so the Foundation (and you!) can copy and distribute it in the
+United States without permission and without paying copyright
+royalties. Special rules, set forth in the General Terms of Use part
+of this license, apply to copying and distributing Project
+Gutenberg-tm electronic works to protect the PROJECT GUTENBERG-tm
+concept and trademark. Project Gutenberg is a registered trademark,
+and may not be used if you charge for an eBook, except by following
+the terms of the trademark license, including paying royalties for use
+of the Project Gutenberg trademark. If you do not charge anything for
+copies of this eBook, complying with the trademark license is very
+easy. You may use this eBook for nearly any purpose such as creation
+of derivative works, reports, performances and research. Project
+Gutenberg eBooks may be modified and printed and given away--you may
+do practically ANYTHING in the United States with eBooks not protected
+by U.S. copyright law. Redistribution is subject to the trademark
+license, especially commercial redistribution.
+
+START: FULL LICENSE
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full
+Project Gutenberg-tm License available with this file or online at
+www.gutenberg.org/license.
+
+Section 1. General Terms of Use and Redistributing Project
+Gutenberg-tm electronic works
+
+1.A. By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement. If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or
+destroy all copies of Project Gutenberg-tm electronic works in your
+possession. If you paid a fee for obtaining a copy of or access to a
+Project Gutenberg-tm electronic work and you do not agree to be bound
+by the terms of this agreement, you may obtain a refund from the
+person or entity to whom you paid the fee as set forth in paragraph
+1.E.8.
+
+1.B. "Project Gutenberg" is a registered trademark. It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement. There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement. See
+paragraph 1.C below. There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this
+agreement and help preserve free future access to Project Gutenberg-tm
+electronic works. See paragraph 1.E below.
+
+1.C. The Project Gutenberg Literary Archive Foundation ("the
+Foundation" or PGLAF), owns a compilation copyright in the collection
+of Project Gutenberg-tm electronic works. Nearly all the individual
+works in the collection are in the public domain in the United
+States. If an individual work is unprotected by copyright law in the
+United States and you are located in the United States, we do not
+claim a right to prevent you from copying, distributing, performing,
+displaying or creating derivative works based on the work as long as
+all references to Project Gutenberg are removed. Of course, we hope
+that you will support the Project Gutenberg-tm mission of promoting
+free access to electronic works by freely sharing Project Gutenberg-tm
+works in compliance with the terms of this agreement for keeping the
+Project Gutenberg-tm name associated with the work. You can easily
+comply with the terms of this agreement by keeping this work in the
+same format with its attached full Project Gutenberg-tm License when
+you share it without charge with others.
+
+1.D. The copyright laws of the place where you are located also govern
+what you can do with this work. Copyright laws in most countries are
+in a constant state of change. If you are outside the United States,
+check the laws of your country in addition to the terms of this
+agreement before downloading, copying, displaying, performing,
+distributing or creating derivative works based on this work or any
+other Project Gutenberg-tm work. The Foundation makes no
+representations concerning the copyright status of any work in any
+country other than the United States.
+
+1.E. Unless you have removed all references to Project Gutenberg:
+
+1.E.1. The following sentence, with active links to, or other
+immediate access to, the full Project Gutenberg-tm License must appear
+prominently whenever any copy of a Project Gutenberg-tm work (any work
+on which the phrase "Project Gutenberg" appears, or with which the
+phrase "Project Gutenberg" is associated) is accessed, displayed,
+performed, viewed, copied or distributed:
+
+  This eBook is for the use of anyone anywhere in the United States and
+  most other parts of the world at no cost and with almost no
+  restrictions whatsoever. You may copy it, give it away or re-use it
+  under the terms of the Project Gutenberg License included with this
+  eBook or online at www.gutenberg.org. If you are not located in the
+  United States, you will have to check the laws of the country where
+  you are located before using this eBook.
+
+1.E.2. If an individual Project Gutenberg-tm electronic work is
+derived from texts not protected by U.S. copyright law (does not
+contain a notice indicating that it is posted with permission of the
+copyright holder), the work can be copied and distributed to anyone in
+the United States without paying any fees or charges. If you are
+redistributing or providing access to a work with the phrase "Project
+Gutenberg" associated with or appearing on the work, you must comply
+either with the requirements of paragraphs 1.E.1 through 1.E.7 or
+obtain permission for the use of the work and the Project Gutenberg-tm
+trademark as set forth in paragraphs 1.E.8 or 1.E.9.
+
+1.E.3. If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any
+additional terms imposed by the copyright holder. Additional terms
+will be linked to the Project Gutenberg-tm License for all works
+posted with the permission of the copyright holder found at the
+beginning of this work.
+
+1.E.4. Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5. Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6. You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including
+any word processing or hypertext form. However, if you provide access
+to or distribute copies of a Project Gutenberg-tm work in a format
+other than "Plain Vanilla ASCII" or other format used in the official
+version posted on the official Project Gutenberg-tm website
+(www.gutenberg.org), you must, at no additional cost, fee or expense
+to the user, provide a copy, a means of exporting a copy, or a means
+of obtaining a copy upon request, of the work in its original "Plain
+Vanilla ASCII" or other form. Any alternate format must include the
+full Project Gutenberg-tm License as specified in paragraph 1.E.1.
+
+1.E.7. Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8. You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works
+provided that:
+
+* You pay a royalty fee of 20% of the gross profits you derive from
+  the use of Project Gutenberg-tm works calculated using the method
+  you already use to calculate your applicable taxes. The fee is owed
+  to the owner of the Project Gutenberg-tm trademark, but he has
+  agreed to donate royalties under this paragraph to the Project
+  Gutenberg Literary Archive Foundation. Royalty payments must be paid
+  within 60 days following each date on which you prepare (or are
+  legally required to prepare) your periodic tax returns. Royalty
+  payments should be clearly marked as such and sent to the Project
+  Gutenberg Literary Archive Foundation at the address specified in
+  Section 4, "Information about donations to the Project Gutenberg
+  Literary Archive Foundation."
+
+* You provide a full refund of any money paid by a user who notifies
+  you in writing (or by e-mail) within 30 days of receipt that s/he
+  does not agree to the terms of the full Project Gutenberg-tm
+  License. You must require such a user to return or destroy all
+  copies of the works possessed in a physical medium and discontinue
+  all use of and all access to other copies of Project Gutenberg-tm
+  works.
+
+* You provide, in accordance with paragraph 1.F.3, a full refund of
+  any money paid for a work or a replacement copy, if a defect in the
+  electronic work is discovered and reported to you within 90 days of
+  receipt of the work.
+
+* You comply with all other terms of this agreement for free
+  distribution of Project Gutenberg-tm works.
+
+1.E.9. If you wish to charge a fee or distribute a Project
+Gutenberg-tm electronic work or group of works on different terms than
+are set forth in this agreement, you must obtain permission in writing
+from the Project Gutenberg Literary Archive Foundation, the manager of
+the Project Gutenberg-tm trademark. Contact the Foundation as set
+forth in Section 3 below.
+
+1.F.
+
+1.F.1. Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+works not protected by U.S. copyright law in creating the Project
+Gutenberg-tm collection. Despite these efforts, Project Gutenberg-tm
+electronic works, and the medium on which they may be stored, may
+contain "Defects," such as, but not limited to, incomplete, inaccurate
+or corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged disk or
+other medium, a computer virus, or computer codes that damage or
+cannot be read by your equipment.
+
+1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from. If you
+received the work on a physical medium, you must return the medium
+with your written explanation. The person or entity that provided you
+with the defective work may elect to provide a replacement copy in
+lieu of a refund. If you received the work electronically, the person
+or entity providing it to you may choose to give you a second
+opportunity to receive the work electronically in lieu of a refund. If
+the second copy is also defective, you may demand a refund in writing
+without further opportunities to fix the problem.
+
+1.F.4. Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS', WITH NO
+OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5. Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of
+damages. If any disclaimer or limitation set forth in this agreement
+violates the law of the state applicable to this agreement, the
+agreement shall be interpreted to make the maximum disclaimer or
+limitation permitted by the applicable state law. The invalidity or
+unenforceability of any provision of this agreement shall not void the
+remaining provisions.
+
+1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in
+accordance with this agreement, and any volunteers associated with the
+production, promotion and distribution of Project Gutenberg-tm
+electronic works, harmless from all liability, costs and expenses,
+including legal fees, that arise directly or indirectly from any of
+the following which you do or cause to occur: (a) distribution of this
+or any Project Gutenberg-tm work, (b) alteration, modification, or
+additions or deletions to any Project Gutenberg-tm work, and (c) any
+Defect you cause.
+
+Section 2. Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of
+computers including obsolete, old, middle-aged and new computers. It
+exists because of the efforts of hundreds of volunteers and donations
+from people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come. In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future
+generations. To learn more about the Project Gutenberg Literary
+Archive Foundation and how your efforts and donations can help, see
+Sections 3 and 4 and the Foundation information page at
+www.gutenberg.org
+
+Section 3. Information about the Project Gutenberg Literary
+Archive Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non-profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service. The Foundation's EIN or federal tax identification
+number is 64-6221541. Contributions to the Project Gutenberg Literary
+Archive Foundation are tax deductible to the full extent permitted by
+U.S. federal laws and your state's laws.
+
+The Foundation's business office is located at 809 North 1500 West,
+Salt Lake City, UT 84116, (801) 596-1887. Email contact links and up
+to date contact information can be found at the Foundation's website
+and official page at www.gutenberg.org/contact
+
+Section 4. Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without
+widespread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine-readable form accessible by the widest
+array of equipment including outdated equipment. Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States. Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements. We do not solicit donations in locations
+where we have not received written confirmation of compliance. To SEND
+DONATIONS or determine the status of compliance for any particular
+state visit www.gutenberg.org/donate
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States. U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg web pages for current donation
+methods and addresses. Donations are accepted in a number of other
+ways including checks, online payments and credit card donations. To
+donate, please visit: www.gutenberg.org/donate
+
+Section 5. General Information About Project Gutenberg-tm electronic works
+
+Professor Michael S. Hart was the originator of the Project
+Gutenberg-tm concept of a library of electronic works that could be
+freely shared with anyone. For forty years, he produced and
+distributed Project Gutenberg-tm eBooks with only a loose network of
+volunteer support.
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as not protected by copyright in
+the U.S. unless a copyright notice is included. Thus, we do not
+necessarily keep eBooks in compliance with any particular paper
+edition.
+
+Most people start at our website which has the main PG search
+facility: www.gutenberg.org
+
+This website includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
